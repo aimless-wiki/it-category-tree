@@ -1,0 +1,1 @@
+{"name": "Sintomi", "id": 121320, "predecessors": [{"name": "Diagnostica_medica", "id": 67226}], "successors": [{"name": "Dolore", "id": 799251}, {"name": "Segni_e_sintomi_neurologici", "id": 3027968}]}

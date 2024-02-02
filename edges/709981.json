@@ -1,0 +1,1 @@
+{"name": "Macchine_agricole", "id": 709981, "predecessors": [{"name": "Tecniche_e_pratiche_agricole", "id": 1483826}, {"name": "Meccanica", "id": 58848}], "successors": [{"name": "Produttori_di_trattori", "id": 1598627}]}

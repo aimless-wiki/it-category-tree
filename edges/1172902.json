@@ -1,0 +1,1 @@
+{"name": "Apparato_respiratorio", "id": 1172902, "predecessors": [{"name": "Otorinolaringoiatria", "id": 218315}, {"name": "Pneumologia", "id": 220183}, {"name": "Anatomia_umana", "id": 2973854}], "successors": [{"name": "Malattie_dell'apparato_respiratorio", "id": 209089}, {"name": "Fisiologia_respiratoria", "id": 3530189}, {"name": "Antiasmatici", "id": 2219387}]}

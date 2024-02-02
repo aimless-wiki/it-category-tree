@@ -1,0 +1,1 @@
+{"name": "Morti_per_avvelenamento", "id": 3053211, "predecessors": [{"name": "Tossicologia", "id": 436289}, {"name": "Epidemiologia", "id": 76085}], "successors": [{"name": "Morti_per_overdose", "id": 3988525}, {"name": "Morti_assassinati_per_avvelenamento", "id": 6781037}]}

@@ -1,0 +1,1 @@
+{"name": "Wi-Fi", "id": 768301, "predecessors": [{"name": "Accesso_a_Internet", "id": 442408}, {"name": "Protocolli_livello_collegamento", "id": 1064446}, {"name": "Protocolli_livello_fisico", "id": 1064442}, {"name": "Sistemi_di_rete", "id": 1062867}, {"name": "Radio", "id": 150749}], "successors": [{"name": "Dispositivi_Wi-Fi", "id": 3381901}]}

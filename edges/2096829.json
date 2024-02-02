@@ -1,0 +1,1 @@
+{"name": "Strumenti_medici", "id": 2096829, "predecessors": [{"name": "Ingegneria_biomedica", "id": 485082}, {"name": "Oggetti", "id": 75212}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Strumenti_chirurgici", "id": 1548873}, {"name": "Protesi_mediche", "id": 2056968}, {"name": "Strumenti_per_il_primo_soccorso", "id": 2096828}]}

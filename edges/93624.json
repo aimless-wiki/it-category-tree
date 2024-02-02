@@ -1,0 +1,1 @@
+{"name": "Piante_aromatiche", "id": 93624, "predecessors": [{"name": "Erboristeria", "id": 67018}, {"name": "Ingredienti_di_cucina", "id": 603187}, {"name": "Agricoltura", "id": 56318}, {"name": "Piante", "id": 83637}], "successors": [{"name": "Spezie", "id": 76248}]}

@@ -1,0 +1,1 @@
+{"name": "Standard_Internet", "id": 43899, "predecessors": [{"name": "Architettura_di_Internet", "id": 443357}, {"name": "Standard_informatici", "id": 674581}], "successors": [{"name": "HTML", "id": 442483}, {"name": "Protocolli_di_Internet", "id": 443644}]}

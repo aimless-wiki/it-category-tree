@@ -1,0 +1,1 @@
+{"name": "Ingegneria_dell'automazione", "id": 610085, "predecessors": [{"name": "Conoscenza", "id": 2644972}], "successors": [{"name": "Teoria_del_controllo", "id": 214867}, {"name": "Robotica", "id": 216798}, {"name": "Reti_neurali_artificiali", "id": 4353847}, {"name": "Visione_artificiale", "id": 4612701}]}

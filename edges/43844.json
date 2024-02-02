@@ -1,0 +1,1 @@
+{"name": "Hardware_Apple", "id": 43844, "predecessors": [{"name": "Apple", "id": 39388}], "successors": [{"name": "Computer_Apple", "id": 46282}, {"name": "IPhone", "id": 2225741}, {"name": "CPU_Apple", "id": 6220401}]}

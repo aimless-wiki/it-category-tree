@@ -1,0 +1,1 @@
+{"name": "Trasporto_di_merci", "id": 92664, "predecessors": [{"name": "Commercio", "id": 34667}, {"name": "Logistica", "id": 1377153}, {"name": "Trasporti", "id": 3479877}], "successors": [{"name": "Trasporto_di_merci_su_strada", "id": 1616345}]}

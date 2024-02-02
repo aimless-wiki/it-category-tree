@@ -1,0 +1,1 @@
+{"name": "Interfaccia_utente", "id": 1027197, "predecessors": [{"name": "Interazione_uomo-computer", "id": 108689}, {"name": "Sistema_operativo", "id": 106199}, {"name": "Design", "id": 27328}], "successors": [{"name": "Interfacce_grafiche", "id": 86108}]}

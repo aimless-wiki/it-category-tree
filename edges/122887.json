@@ -1,0 +1,1 @@
+{"name": "Medicina_di_laboratorio", "id": 122887, "predecessors": [{"name": "Diagnostica_medica", "id": 67226}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Reperti_di_laboratorio", "id": 2581156}, {"name": "Marker_tumorali", "id": 2587450}]}

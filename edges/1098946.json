@@ -1,0 +1,1 @@
+{"name": "Fasi_della_materia", "id": 1098946, "predecessors": [{"name": "Chimica_fisica", "id": 665171}, {"name": "Termodinamica", "id": 47015}, {"name": "Fisica", "id": 24711}], "successors": [{"name": "Transizioni_di_fase", "id": 1118911}, {"name": "Meccanica_dei_fluidi", "id": 60613}, {"name": "Fluidi_refrigeranti", "id": 2542342}, {"name": "Gas", "id": 506723}]}

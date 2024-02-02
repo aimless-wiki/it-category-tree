@@ -1,0 +1,1 @@
+{"name": "Segnali_stradali", "id": 102744, "predecessors": [{"name": "Codice_della_strada", "id": 99423}, {"name": "Mezzi_di_comunicazione", "id": 1093782}, {"name": "Sicurezza_stradale", "id": 5040337}, {"name": "Urbanistica", "id": 60716}], "successors": [{"name": "Segnaletica_stradale_per_stato", "id": 5450729}]}

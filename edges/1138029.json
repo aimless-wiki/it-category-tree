@@ -1,0 +1,1 @@
+{"name": "Processi_industriali", "id": 1138029, "predecessors": [{"name": "Ingegneria_industriale", "id": 614564}, {"name": "Economia", "id": 27583}, {"name": "Design", "id": 27328}], "successors": [{"name": "Lavorazioni_metallurgiche", "id": 1150240}, {"name": "Operazioni_unitarie", "id": 2003348}, {"name": "Processi_chimici_industriali", "id": 2562100}]}

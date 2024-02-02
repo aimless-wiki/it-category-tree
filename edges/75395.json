@@ -1,0 +1,1 @@
+{"name": "Piante_ornamentali", "id": 75395, "predecessors": [{"name": "Arredamento", "id": 275079}, {"name": "Giardinaggio", "id": 74927}, {"name": "Piante", "id": 83637}], "successors": [{"name": "Alberi_ornamentali", "id": 1885824}, {"name": "Piante_erbacee_ornamentali", "id": 3284731}, {"name": "Piante_arbustive_ornamentali", "id": 3284757}]}

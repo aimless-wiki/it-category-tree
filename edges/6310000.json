@@ -1,0 +1,1 @@
+{"name": "Software_con_licenza_GNU_GPL_v2+", "id": 6310000, "predecessors": [{"name": "Software_con_licenza_GNU_GPL_v2", "id": 6310001}, {"name": "Software_con_licenza_GNU_GPL_v3", "id": 6309998}, {"name": "Software_con_licenza_GNU_GPL_v3+", "id": 6309996}], "successors": [{"name": "GNOME", "id": 444473}]}

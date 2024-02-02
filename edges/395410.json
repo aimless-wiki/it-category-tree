@@ -1,0 +1,1 @@
+{"name": "Ingegneria_nucleare", "id": 395410, "predecessors": [{"name": "Energia_nucleare", "id": 672833}, {"name": "Ingegneria_energetica", "id": 9791216}, {"name": "Fisica_nucleare", "id": 105357}], "successors": [{"name": "Reattori_nucleari", "id": 2375625}]}

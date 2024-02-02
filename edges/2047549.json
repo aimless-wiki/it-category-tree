@@ -1,0 +1,1 @@
+{"name": "Classi_di_servizio_dei_treni", "id": 2047549, "predecessors": [{"name": "Gestione_del_traffico_ferroviario", "id": 444598}, {"name": "Treni", "id": 255489}], "successors": [{"name": "Treni_Trans_Europ_Express", "id": 879241}]}

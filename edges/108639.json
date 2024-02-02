@@ -1,0 +1,1 @@
+{"name": "Antibiotici", "id": 108639, "predecessors": [{"name": "Codici_ATC", "id": 5274640}, {"name": "Microbiologia", "id": 306605}, {"name": "Farmaci", "id": 86611}], "successors": [{"name": "Macrolidi", "id": 2992912}, {"name": "Cefalosporine", "id": 1979537}, {"name": "Penicilline", "id": 2236042}, {"name": "Fluorochinoloni", "id": 4025106}]}

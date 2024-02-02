@@ -1,0 +1,1 @@
+{"name": "Dinamica_atmosferica", "id": 1456139, "predecessors": [{"name": "Meteorologia", "id": 43647}, {"name": "Atmosfera", "id": 684662}], "successors": [{"name": "Dinamica_atmosfera-oceano", "id": 2944073}, {"name": "Cicloni_tropicali", "id": 1360601}]}

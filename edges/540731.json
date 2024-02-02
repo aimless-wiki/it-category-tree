@@ -1,0 +1,1 @@
+{"name": "Legno", "id": 540731, "predecessors": [{"name": "Botanica", "id": 28113}, {"name": "Materiali_compositi", "id": 3168494}, {"name": "Materiali", "id": 74253}], "successors": [{"name": "Legnami", "id": 87461}, {"name": "Sculture_lignee", "id": 577796}, {"name": "Lavorazione_del_legno", "id": 608293}]}

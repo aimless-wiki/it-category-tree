@@ -1,0 +1,1 @@
+{"name": "Sistemi_di_controllo", "id": 1143302, "predecessors": [{"name": "Informatica", "id": 24695}, {"name": "Teoria_dei_sistemi", "id": 628650}, {"name": "Teoria_del_controllo", "id": 214867}], "successors": [{"name": "Controllo_del_traffico_aereo", "id": 463062}, {"name": "Sensori", "id": 1998168}]}

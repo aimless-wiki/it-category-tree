@@ -1,0 +1,1 @@
+{"name": "Veicoli_spaziali", "id": 66765, "predecessors": [{"name": "Astronautica", "id": 55505}, {"name": "Oggetti", "id": 75212}], "successors": [{"name": "Satelliti_artificiali", "id": 66754}, {"name": "Programma_Progress", "id": 8653670}, {"name": "Veicoli_spaziali_con_equipaggio", "id": 9773756}]}

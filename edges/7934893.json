@@ -1,0 +1,1 @@
+{"name": "Dolci_a_base_di_frutta", "id": 7934893, "predecessors": [{"name": "Frutta", "id": 630368}, {"name": "Oggetti", "id": 75212}], "successors": [{"name": "Dolci_a_base_di_frutta_candita", "id": 7950501}, {"name": "Dolci_a_base_di_uva_passa", "id": 7953926}]}

@@ -1,0 +1,1 @@
+{"name": "Processi_chimici_industriali", "id": 2562100, "predecessors": [{"name": "Chimica_industriale", "id": 664340}, {"name": "Processi_industriali", "id": 1138029}, {"name": "Ingegneria_chimica", "id": 395414}], "successors": [{"name": "Trattamenti_superficiali", "id": 2358194}]}

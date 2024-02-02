@@ -1,0 +1,1 @@
+{"name": "Software_per_Unix", "id": 4102782, "predecessors": [{"name": "Unix", "id": 49397}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "KDE", "id": 149779}, {"name": "GNOME", "id": 444473}, {"name": "Software_per_Linux", "id": 4100126}]}

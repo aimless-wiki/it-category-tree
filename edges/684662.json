@@ -1,0 +1,1 @@
+{"name": "Atmosfera", "id": 684662, "predecessors": [{"name": "Meteorologia", "id": 43647}, {"name": "Astronautica", "id": 55505}, {"name": "Ambiente", "id": 72098}], "successors": [{"name": "Fenomeni_ottici_atmosferici", "id": 5583096}, {"name": "Meteorologia", "id": 43647}, {"name": "Dinamica_atmosferica", "id": 1456139}, {"name": "Dinamica_atmosfera-oceano", "id": 2944073}]}

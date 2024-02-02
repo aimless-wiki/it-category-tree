@@ -1,0 +1,1 @@
+{"name": "Logica", "id": 42517, "predecessors": [{"name": "Filosofia", "id": 24638}], "successors": [{"name": "Paradossi", "id": 42516}, {"name": "Logica_matematica", "id": 43003}, {"name": "Fallacie", "id": 658633}, {"name": "Giochi_di_logica", "id": 1534937}, {"name": "Teoria_dei_giochi", "id": 42881}, {"name": "Logica_modale", "id": 1321906}]}

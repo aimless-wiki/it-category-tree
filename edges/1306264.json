@@ -1,0 +1,1 @@
+{"name": "Combustione", "id": 1306264, "predecessors": [{"name": "Reazioni_chimiche", "id": 130856}, {"name": "Termodinamica", "id": 47015}], "successors": [{"name": "Combustibili", "id": 3334016}, {"name": "Incendi_in_Europa", "id": 9466456}, {"name": "Incendi_in_America", "id": 9466514}, {"name": "Prometeo", "id": 7659896}]}

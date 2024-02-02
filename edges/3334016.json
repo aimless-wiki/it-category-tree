@@ -1,0 +1,1 @@
+{"name": "Combustibili", "id": 3334016, "predecessors": [{"name": "Combustione", "id": 1306264}, {"name": "Ingegneria_energetica", "id": 9791216}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Combustibili_biologici", "id": 2644004}, {"name": "Petrolio", "id": 521656}, {"name": "Gas_naturale", "id": 697769}, {"name": "Giacimenti_petroliferi", "id": 4212190}]}

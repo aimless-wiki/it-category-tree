@@ -1,0 +1,1 @@
+{"name": "Parti_di_veicoli", "id": 765238, "predecessors": [{"name": "Automobili", "id": 76002}, {"name": "Meccanica_del_veicolo", "id": 7771196}, {"name": "Motoveicoli", "id": 94803}, {"name": "Mezzi_di_trasporto_su_strada", "id": 1616342}], "successors": [{"name": "Parti_di_bicicletta", "id": 410056}]}

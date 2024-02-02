@@ -1,0 +1,1 @@
+{"name": "Malattie_immunomediate", "id": 3780538, "predecessors": [{"name": "Sistema_immunitario", "id": 1956145}, {"name": "Malattie", "id": 40946}], "successors": [{"name": "Malattie_infiammatorie", "id": 218319}, {"name": "Allergie", "id": 315297}, {"name": "Malattie_autoimmuni", "id": 726213}]}

@@ -1,0 +1,1 @@
+{"name": "Ottimizzazione", "id": 42919, "predecessors": [{"name": "Analisi_numerica", "id": 28056}, {"name": "Programmazione", "id": 55713}, {"name": "Ricerca_operativa", "id": 84258}], "successors": [{"name": "Algoritmi_di_ottimizzazione", "id": 42920}]}

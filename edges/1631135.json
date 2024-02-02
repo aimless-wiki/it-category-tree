@@ -1,0 +1,1 @@
+{"name": "Idraulica", "id": 1631135, "predecessors": [{"name": "Acqua", "id": 1445690}, {"name": "Meccanica_dei_fluidi", "id": 60613}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Ingegneria_idraulica", "id": 410164}, {"name": "Componenti_idraulici", "id": 1117792}, {"name": "Pompe", "id": 2923360}]}

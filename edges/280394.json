@@ -1,0 +1,1 @@
+{"name": "Motori_aeronautici", "id": 280394, "predecessors": [{"name": "Componenti_aeronautici", "id": 1916140}, {"name": "Motori", "id": 672072}], "successors": [{"name": "Motori_turboventola", "id": 1568598}, {"name": "Motori_turbogetto", "id": 1568657}, {"name": "Motori_a_razzo", "id": 1568750}]}

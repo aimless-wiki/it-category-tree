@@ -1,0 +1,1 @@
+{"name": "Lipidi", "id": 259114, "predecessors": [{"name": "Biomolecole", "id": 499652}, {"name": "Composti_organici", "id": 444820}], "successors": [{"name": "Acidi_grassi", "id": 259061}, {"name": "Steroidi", "id": 259112}]}

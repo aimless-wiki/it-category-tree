@@ -1,0 +1,1 @@
+{"name": "Diagnostica_per_immagini", "id": 3883926, "predecessors": [{"name": "Radiologia", "id": 222141}, {"name": "Elaborazione_digitale_delle_immagini", "id": 2926994}], "successors": [{"name": "Imaging_a_risonanza_magnetica", "id": 1298132}, {"name": "Radiografia", "id": 2100164}]}

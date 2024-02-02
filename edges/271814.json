@@ -1,0 +1,1 @@
+{"name": "Terapie", "id": 271814, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Terapie_non_farmacologiche", "id": 241028}, {"name": "Psicoterapia", "id": 640521}]}

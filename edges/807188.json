@@ -1,0 +1,1 @@
+{"name": "Chemioterapici", "id": 807188, "predecessors": [{"name": "Codici_ATC", "id": 5274640}, {"name": "Farmaci", "id": 86611}], "successors": [{"name": "Anticorpi_monoclonali", "id": 2219568}]}

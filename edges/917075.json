@@ -1,0 +1,1 @@
+{"name": "Software_di_sistema", "id": 917075, "predecessors": [{"name": "Sistema_operativo", "id": 106199}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Posta_elettronica", "id": 442420}, {"name": "Compilatori", "id": 662949}, {"name": "Software_di_sistema_liberi", "id": 4360462}, {"name": "Software_parte_di_macOS", "id": 6012658}]}

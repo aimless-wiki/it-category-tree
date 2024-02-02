@@ -1,0 +1,1 @@
+{"name": "Metallurgia", "id": 58849, "predecessors": [{"name": "Chimica_inorganica", "id": 1096006}, {"name": "Metalli", "id": 66112}, {"name": "Scienza_dei_materiali", "id": 512270}, {"name": "Ingegneria_industriale", "id": 614564}], "successors": [{"name": "Leghe_metalliche", "id": 66113}, {"name": "Lavorazioni_metallurgiche", "id": 1150240}]}

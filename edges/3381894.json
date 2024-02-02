@@ -1,0 +1,1 @@
+{"name": "Android", "id": 3381894, "predecessors": [{"name": "Google", "id": 593208}, {"name": "Sistemi_operativi_per_dispositivi_mobili", "id": 1061307}, {"name": "Sistemi_operativi_utilizzanti_il_kernel_Linux", "id": 6170065}], "successors": [{"name": "Dispositivi_Android", "id": 3381896}, {"name": "Software_per_Android", "id": 4100461}]}

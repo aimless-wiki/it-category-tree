@@ -1,0 +1,1 @@
+{"name": "Lubrificanti", "id": 272814, "predecessors": [{"name": "Materiali", "id": 74253}, {"name": "Categorie", "id": 41474}, {"name": "Meccanica", "id": 58848}], "successors": [{"name": "Oli_essenziali", "id": 1924328}, {"name": "Oli_alimentari", "id": 2739436}, {"name": "Oli_vegetali", "id": 3196765}]}

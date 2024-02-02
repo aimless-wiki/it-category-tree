@@ -1,0 +1,1 @@
+{"name": "Radiologia", "id": 222141, "predecessors": [{"name": "Fisica", "id": 24711}, {"name": "Medicina", "id": 27684}, {"name": "Radiazione_elettromagnetica", "id": 3337201}], "successors": [{"name": "Diagnostica_per_immagini", "id": 3883926}]}

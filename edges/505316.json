@@ -1,0 +1,1 @@
+{"name": "Inquinamento", "id": 505316, "predecessors": [{"name": "Chimica_ambientale", "id": 1208049}, {"name": "Rischio_chimico_e_prevenzione", "id": 686814}, {"name": "Economia", "id": 27583}, {"name": "Ambiente", "id": 72098}, {"name": "Etnoantropologia", "id": 1653976}], "successors": [{"name": "Inquinanti", "id": 505315}, {"name": "Inquinamento_atmosferico", "id": 4118025}]}

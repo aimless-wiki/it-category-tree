@@ -1,0 +1,1 @@
+{"name": "Medicina_alternativa", "id": 53115, "predecessors": [{"name": "Pseudoscienza", "id": 45139}, {"name": "Filosofia", "id": 24638}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Oli_essenziali", "id": 1924328}, {"name": "Medicina_tradizionale_cinese", "id": 417786}]}
