@@ -1,1 +1,1 @@
-{"name": "Protezione_antincendio", "id": 2775576, "predecessors": [{"name": "Soccorso_pubblico_e_difesa_civile", "id": 1438239}, {"name": "Diritti_umani", "id": 96349}], "successors": []}
+{"name": "Protezione_antincendio", "id": 2775576, "predecessors": [{"name": "Soccorso_pubblico_e_difesa_civile", "id": 1438239}, {"name": "Sicurezza", "id": 493345}], "successors": []}

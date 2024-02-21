@@ -1,1 +1,1 @@
-{"name": "Ingegneria_del_software", "id": 65899, "predecessors": [{"name": "Informatica", "id": 24695}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Sviluppo_software", "id": 2183232}, {"name": "Design_pattern", "id": 87257}]}
+{"name": "Ingegneria_del_software", "id": 65899, "predecessors": [{"name": "Informatica", "id": 24695}, {"name": "Ingegneria", "id": 31787}], "successors": [{"name": "Sviluppo_software", "id": 2183232}, {"name": "Design_pattern", "id": 87257}]}

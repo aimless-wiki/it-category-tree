@@ -1,1 +1,1 @@
-{"name": "Musicisti_jazz_d'avanguardia", "id": 4279933, "predecessors": [{"name": "Musicisti_jazz", "id": 39807}, {"name": "Jazz", "id": 219439}], "successors": [{"name": "Musicisti_di_improvvisazione_libera", "id": 8289810}]}
+{"name": "Musicisti_jazz_d'avanguardia", "id": 4279933, "predecessors": [{"name": "Musicisti_jazz", "id": 39807}, {"name": "Generi_musicali_jazz", "id": 383857}], "successors": [{"name": "Musicisti_di_improvvisazione_libera", "id": 8289810}]}

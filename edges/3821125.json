@@ -1,1 +1,1 @@
-{"name": "Album_latin_jazz", "id": 3821125, "predecessors": [{"name": "Album_di_musica_latina", "id": 2375007}, {"name": "Album_jazz", "id": 223460}, {"name": "Jazz", "id": 219439}], "successors": []}
+{"name": "Album_latin_jazz", "id": 3821125, "predecessors": [{"name": "Album_di_musica_latina", "id": 2375007}, {"name": "Album_jazz", "id": 223460}, {"name": "Generi_musicali_jazz", "id": 383857}], "successors": []}

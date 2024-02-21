@@ -1,1 +1,1 @@
-{"name": "Ingegneria_gestionale", "id": 395406, "predecessors": [{"name": "Gestione_d'azienda", "id": 296585}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Ingegneria_gestionale", "id": 395406, "predecessors": [{"name": "Gestione_d'azienda", "id": 296585}, {"name": "Ingegneria", "id": 31787}], "successors": []}

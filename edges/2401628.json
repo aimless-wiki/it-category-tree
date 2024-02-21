@@ -1,1 +1,1 @@
-{"name": "Sculture_greche", "id": 2401628, "predecessors": [{"name": "Storiografia", "id": 720008}, {"name": "Scultura", "id": 27808}], "successors": [{"name": "Copie_romane_di_sculture_greche", "id": 5219474}]}
+{"name": "Sculture_greche", "id": 2401628, "predecessors": [{"name": "Storiografia", "id": 720008}, {"name": "Scultura", "id": 27808}], "successors": [{"name": "Sculture_ellenistiche", "id": 2401641}, {"name": "Copie_romane_di_sculture_greche", "id": 5219474}]}

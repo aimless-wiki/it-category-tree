@@ -1,1 +1,1 @@
-{"name": "Gruppi_musicali_fusion", "id": 107783, "predecessors": [{"name": "Gruppi_musicali_jazz", "id": 40227}, {"name": "Jazz", "id": 219439}], "successors": []}
+{"name": "Gruppi_musicali_fusion", "id": 107783, "predecessors": [{"name": "Gruppi_musicali_jazz", "id": 40227}, {"name": "Generi_musicali_jazz", "id": 383857}], "successors": []}

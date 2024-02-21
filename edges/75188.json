@@ -1,1 +1,1 @@
-{"name": "Tipografia", "id": 75188, "predecessors": [{"name": "Editoria", "id": 68635}, {"name": "Grafica", "id": 133902}, {"name": "Tecniche_di_stampa", "id": 1520469}], "successors": []}
+{"name": "Tipografia", "id": 75188, "predecessors": [{"name": "Editoria", "id": 68635}, {"name": "Grafica", "id": 133902}, {"name": "Tecniche_di_stampa", "id": 1520469}], "successors": [{"name": "Caratteri_senza_grazie", "id": 1168357}, {"name": "Caratteri_con_grazie", "id": 1168359}]}

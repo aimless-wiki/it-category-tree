@@ -1,1 +1,1 @@
-{"name": "Audio_digitale", "id": 1202779, "predecessors": [{"name": "Audio", "id": 62043}, {"name": "Elettronica_digitale", "id": 128149}, {"name": "Tecnologia", "id": 75186}, {"name": "Elettronica", "id": 34201}], "successors": [{"name": "Codec_audio", "id": 82501}]}
+{"name": "Audio_digitale", "id": 1202779, "predecessors": [{"name": "Audio", "id": 62043}, {"name": "Elettronica_digitale", "id": 128149}, {"name": "Tecnologia", "id": 75186}, {"name": "Elettronica", "id": 34201}], "successors": [{"name": "Codec_audio", "id": 82501}, {"name": "Compact_disc", "id": 223827}]}

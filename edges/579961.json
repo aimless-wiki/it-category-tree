@@ -1,1 +1,1 @@
-{"name": "Analisi_del_rischio", "id": 579961, "predecessors": [{"name": "Finanza_aziendale", "id": 1138892}, {"name": "Tecniche_di_difesa_informatica", "id": 1071956}, {"name": "Diritti_umani", "id": 96349}], "successors": []}
+{"name": "Analisi_del_rischio", "id": 579961, "predecessors": [{"name": "Finanza_aziendale", "id": 1138892}, {"name": "Tecniche_di_difesa_informatica", "id": 1071956}, {"name": "Sicurezza", "id": 493345}], "successors": []}

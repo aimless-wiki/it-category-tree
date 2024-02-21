@@ -1,1 +1,1 @@
-{"name": "Cantanti_disco", "id": 543314, "predecessors": [{"name": "Cantanti_EDM", "id": 2970232}, {"name": "Cantanti_funk", "id": 2267447}, {"name": "Musicisti_EDM", "id": 3169597}], "successors": []}
+{"name": "Cantanti_disco", "id": 543314, "predecessors": [{"name": "Cantanti_EDM", "id": 2970232}, {"name": "Cantanti_funk", "id": 2267447}, {"name": "Musicisti_disco", "id": 2594506}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ingegneria_aerospaziale", "id": 418384, "predecessors": [{"name": "Astronautica", "id": 55505}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Astronautica", "id": 55505}, {"name": "Ingegneri_aerospaziali", "id": 120513}, {"name": "Pompe", "id": 2923360}]}
+{"name": "Ingegneria_aerospaziale", "id": 418384, "predecessors": [{"name": "Astronautica", "id": 55505}, {"name": "Ingegneria", "id": 31787}], "successors": [{"name": "Astronautica", "id": 55505}, {"name": "Ingegneri_aerospaziali", "id": 120513}, {"name": "Pompe", "id": 2923360}]}

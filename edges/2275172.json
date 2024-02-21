@@ -1,1 +1,1 @@
-{"name": "Brani_musicali_fusion", "id": 2275172, "predecessors": [{"name": "Brani_musicali_jazz", "id": 2247793}, {"name": "Jazz", "id": 219439}], "successors": []}
+{"name": "Brani_musicali_fusion", "id": 2275172, "predecessors": [{"name": "Brani_musicali_jazz", "id": 2247793}, {"name": "Generi_musicali_jazz", "id": 383857}], "successors": []}

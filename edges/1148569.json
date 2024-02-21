@@ -1,1 +1,1 @@
-{"name": "Detergenti", "id": 1148569, "predecessors": [{"name": "Igiene", "id": 540748}, {"name": "Oggetti_per_la_casa", "id": 1151190}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Detergenti", "id": 1148569, "predecessors": [{"name": "Oggetti_per_la_casa", "id": 1151190}, {"name": "Categorie", "id": 41474}, {"name": "Igiene", "id": 540748}], "successors": []}

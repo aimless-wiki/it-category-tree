@@ -1,1 +1,1 @@
-{"name": "Scultura", "id": 27808, "predecessors": [{"name": "Arti_visive", "id": 786519}], "successors": [{"name": "Materiali_scultorei", "id": 3246767}, {"name": "Scultori_greci_antichi", "id": 1926946}, {"name": "Sculture_greche", "id": 2401628}]}
+{"name": "Scultura", "id": 27808, "predecessors": [{"name": "Arti_visive", "id": 786519}], "successors": [{"name": "Materiali_scultorei", "id": 3246767}, {"name": "Scultori_greci_antichi", "id": 1926946}, {"name": "Sculture_greche", "id": 2401628}, {"name": "Sculture_ellenistiche", "id": 2401641}]}

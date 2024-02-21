@@ -1,1 +1,1 @@
-{"name": "Disastri_ambientali", "id": 1404367, "predecessors": [{"name": "Ambiente", "id": 72098}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Disastri_ambientali", "id": 1404367, "predecessors": [{"name": "Ambiente", "id": 72098}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Disastri_petroliferi", "id": 3702648}]}

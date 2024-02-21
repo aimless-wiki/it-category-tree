@@ -1,1 +1,1 @@
-{"name": "Leggi_e_regolamenti_del_settore_dei_trasporti", "id": 659799, "predecessors": [{"name": "Trasporti", "id": 3479877}, {"name": "Fonti_del_diritto", "id": 307027}], "successors": [{"name": "Codice_della_strada", "id": 99423}, {"name": "Targhe_d'immatricolazione", "id": 6474305}]}
+{"name": "Leggi_e_regolamenti_del_settore_dei_trasporti", "id": 659799, "predecessors": [{"name": "Fonti_del_diritto", "id": 307027}, {"name": "Stato", "id": 77967}], "successors": [{"name": "Codice_della_strada", "id": 99423}, {"name": "Targhe_d'immatricolazione", "id": 6474305}]}

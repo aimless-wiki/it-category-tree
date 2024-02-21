@@ -1,1 +1,1 @@
-{"name": "Ingegneria_navale", "id": 697945, "predecessors": [{"name": "Nautica", "id": 54399}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Elementi_d'imbarcazioni", "id": 859018}]}
+{"name": "Ingegneria_navale", "id": 697945, "predecessors": [{"name": "Nautica", "id": 54399}, {"name": "Ingegneria", "id": 31787}], "successors": [{"name": "Elementi_d'imbarcazioni", "id": 859018}]}

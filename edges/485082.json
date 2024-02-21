@@ -1,1 +1,1 @@
-{"name": "Ingegneria_biomedica", "id": 485082, "predecessors": [{"name": "Fisica", "id": 24711}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Strumenti_medici", "id": 2096829}]}
+{"name": "Ingegneria_biomedica", "id": 485082, "predecessors": [{"name": "Fisica", "id": 24711}, {"name": "Categorie", "id": 41474}, {"name": "Ingegneria", "id": 31787}], "successors": [{"name": "Strumenti_medici", "id": 2096829}]}
