@@ -1,1 +1,1 @@
-{"name": "Trattamenti_superficiali", "id": 2358194, "predecessors": [{"name": "Chimica_delle_superfici", "id": 1630106}, {"name": "Processi_chimici_industriali", "id": 2562100}, {"name": "Ingegneria_industriale", "id": 614564}], "successors": []}
+{"name": "Trattamenti_superficiali", "id": 2358194, "predecessors": [{"name": "Processi_chimici_industriali", "id": 2562100}, {"name": "Scienza_delle_superfici", "id": 10050676}, {"name": "Ingegneria_industriale", "id": 614564}], "successors": []}

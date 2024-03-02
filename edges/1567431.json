@@ -1,1 +1,1 @@
-{"name": "Misure", "id": 1567431, "predecessors": [{"name": "Metrologia", "id": 47333}], "successors": [{"name": "Geodesia", "id": 635527}, {"name": "Misure_nell'ottica", "id": 1567444}, {"name": "Esperimenti_di_fisica", "id": 369496}]}
+{"name": "Misure", "id": 1567431, "predecessors": [{"name": "Metrologia", "id": 47333}], "successors": [{"name": "Geodesia", "id": 635527}, {"name": "Misure_nell'ottica", "id": 1567444}, {"name": "Esperimenti_di_fisica", "id": 369496}, {"name": "Esperimenti_di_psicologia", "id": 2259787}]}

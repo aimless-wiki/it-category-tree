@@ -1,1 +1,1 @@
-{"name": "Fisiologia_vegetale", "id": 725934, "predecessors": [{"name": "Botanica", "id": 28113}, {"name": "Fisiologia", "id": 209069}], "successors": [{"name": "Fotosintesi", "id": 3206715}, {"name": "Patologia_vegetale", "id": 2005297}]}
+{"name": "Fisiologia_vegetale", "id": 725934, "predecessors": [{"name": "Botanica", "id": 28113}, {"name": "Fisiologia", "id": 209069}], "successors": [{"name": "Patologia_vegetale", "id": 2005297}, {"name": "Fotosintesi", "id": 3206715}]}
