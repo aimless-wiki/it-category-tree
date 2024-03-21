@@ -1,1 +1,1 @@
-{"name": "Macchine_operatrici", "id": 1100716, "predecessors": [{"name": "Meccanica", "id": 58848}], "successors": [{"name": "Pompe", "id": 2923360}]}
+{"name": "Macchine_operatrici", "id": 1100716, "predecessors": [{"name": "Meccanica", "id": 58848}], "successors": [{"name": "Macchine_utensili", "id": 1099591}, {"name": "Pompe", "id": 2923360}]}

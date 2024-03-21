@@ -1,1 +1,1 @@
-{"name": "Campionati_del_mondo_Ironman", "id": 4649829, "predecessors": [{"name": "Geografia", "id": 24992}, {"name": "Sport_individuali", "id": 39771}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Campionati_del_mondo_Ironman", "id": 4649829, "predecessors": [{"name": "Campionati_mondiali", "id": 2933579}, {"name": "Geografia", "id": 24992}, {"name": "Sport_individuali", "id": 39771}], "successors": []}

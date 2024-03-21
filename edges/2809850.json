@@ -1,1 +1,1 @@
-{"name": "Campionati_del_mondo_di_ciclismo_su_strada", "id": 2809850, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Hobby", "id": 45721}], "successors": [{"name": "Campioni_del_mondo_professionisti_di_ciclismo_su_strada", "id": 1309988}]}
+{"name": "Campionati_del_mondo_di_ciclismo_su_strada", "id": 2809850, "predecessors": [{"name": "Campionati_mondiali", "id": 2933579}, {"name": "Hobby", "id": 45721}], "successors": [{"name": "Campioni_del_mondo_professionisti_di_ciclismo_su_strada", "id": 1309988}]}

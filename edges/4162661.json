@@ -1,1 +1,1 @@
-{"name": "Campionati_mondiali_di_bob", "id": 4162661, "predecessors": [{"name": "Sport_di_squadra", "id": 39757}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Campionati_mondiali_juniores_di_bob", "id": 5835843}]}
+{"name": "Campionati_mondiali_di_bob", "id": 4162661, "predecessors": [{"name": "Campionati_mondiali", "id": 2933579}, {"name": "Sport_di_squadra", "id": 39757}], "successors": [{"name": "Campionati_mondiali_juniores_di_bob", "id": 5835843}]}
