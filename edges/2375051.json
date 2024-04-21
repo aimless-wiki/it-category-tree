@@ -1,1 +1,1 @@
-{"name": "Album_EBM", "id": 2375051, "predecessors": [{"name": "Album_EDM", "id": 2435179}, {"name": "Album_di_musica_industriale", "id": 737554}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Album_EBM", "id": 2375051, "predecessors": [{"name": "Album_EDM", "id": 2435179}, {"name": "Generi_musicali_di_musica_elettronica", "id": 2529552}, {"name": "Album_di_musica_industriale", "id": 737554}], "successors": []}

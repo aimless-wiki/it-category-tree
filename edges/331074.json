@@ -1,1 +1,1 @@
-{"name": "Saggisti_statunitensi", "id": 331074, "predecessors": [{"name": "Artisti_statunitensi", "id": 1248747}, {"name": "Generi_letterari", "id": 27499}], "successors": []}
+{"name": "Saggisti_statunitensi", "id": 331074, "predecessors": [{"name": "Generi_letterari", "id": 27499}, {"name": "Categorie", "id": 41474}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Poliedri", "id": 82200, "predecessors": [{"name": "Geometria_descrittiva", "id": 426228}, {"name": "Geometria_solida", "id": 328584}, {"name": "Teoria_dei_grafi", "id": 37864}], "successors": [{"name": "Solidi_di_Johnson", "id": 1594662}]}
+{"name": "Poliedri", "id": 82200, "predecessors": [{"name": "Geometria_descrittiva", "id": 426228}, {"name": "Geometria_solida", "id": 328584}, {"name": "Teoria_dei_grafi", "id": 37864}], "successors": [{"name": "Solidi_di_Johnson", "id": 1594662}, {"name": "Poliedri_stellati_uniformi", "id": 9108949}]}

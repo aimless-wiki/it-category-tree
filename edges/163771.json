@@ -1,1 +1,1 @@
-{"name": "Gruppi_musicali_industrial_metal", "id": 163771, "predecessors": [{"name": "Gruppi_musicali_heavy_metal", "id": 83123}, {"name": "Gruppi_musicali_di_musica_industriale", "id": 5239651}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Gruppi_musicali_industrial_metal", "id": 163771, "predecessors": [{"name": "Gruppi_musicali_heavy_metal", "id": 83123}, {"name": "Generi_musicali_di_musica_elettronica", "id": 2529552}, {"name": "Gruppi_musicali_di_musica_industriale", "id": 5239651}], "successors": []}

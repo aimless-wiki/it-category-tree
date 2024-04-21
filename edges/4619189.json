@@ -1,1 +1,1 @@
-{"name": "Album_electronicore", "id": 4619189, "predecessors": [{"name": "Album_di_musica_elettronica", "id": 2345590}, {"name": "Album_metalcore", "id": 1167229}, {"name": "Punk", "id": 285270}], "successors": []}
+{"name": "Album_electronicore", "id": 4619189, "predecessors": [{"name": "Album_di_musica_elettronica", "id": 2345590}, {"name": "Album_metalcore", "id": 1167229}, {"name": "Generi_musicali_di_musica_elettronica", "id": 2529552}], "successors": []}

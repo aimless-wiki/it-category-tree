@@ -1,1 +1,1 @@
-{"name": "Album_futurepop", "id": 3112831, "predecessors": [{"name": "Album_di_musica_elettronica", "id": 2345590}, {"name": "Album_pop", "id": 223053}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Album_futurepop", "id": 3112831, "predecessors": [{"name": "Album_di_musica_elettronica", "id": 2345590}, {"name": "Album_pop", "id": 223053}, {"name": "Generi_musicali_di_musica_elettronica", "id": 2529552}], "successors": []}

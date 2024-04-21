@@ -1,1 +1,1 @@
-{"name": "Architettura_x86", "id": 651387, "predecessors": [{"name": "Microprocessori", "id": 49099}], "successors": []}
+{"name": "Architettura_x86", "id": 651387, "predecessors": [{"name": "Architettura_dei_calcolatori", "id": 1041386}], "successors": [{"name": "Microprocessori_AMD_x86", "id": 10088809}, {"name": "Microprocessori_Intel_x86", "id": 10088923}]}

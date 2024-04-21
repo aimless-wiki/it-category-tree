@@ -1,1 +1,1 @@
-{"name": "Processi_psicologici", "id": 2259582, "predecessors": [{"name": "Psicologia", "id": 44131}], "successors": [{"name": "Emozioni_e_sentimenti", "id": 870565}, {"name": "Processi_cognitivi", "id": 1285255}, {"name": "Personalità", "id": 1359864}, {"name": "Meccanismi_di_difesa", "id": 6597644}]}
+{"name": "Processi_psicologici", "id": 2259582, "predecessors": [{"name": "Psicologia", "id": 44131}], "successors": [{"name": "Emozioni_e_sentimenti", "id": 870565}, {"name": "Processi_cognitivi", "id": 1285255}, {"name": "Meccanismi_di_difesa", "id": 6597644}]}

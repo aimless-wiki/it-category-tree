@@ -1,1 +1,1 @@
-{"name": "Tabagismo", "id": 6159151, "predecessors": [{"name": "Tabacco", "id": 225624}, {"name": "Costume", "id": 65862}], "successors": []}
+{"name": "Tabagismo", "id": 6159151, "predecessors": [{"name": "Tabacco", "id": 225624}, {"name": "Comportamento_umano", "id": 5299732}], "successors": []}

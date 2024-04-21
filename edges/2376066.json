@@ -1,1 +1,1 @@
-{"name": "Album_noise", "id": 2376066, "predecessors": [{"name": "Album_di_musica_elettronica", "id": 2345590}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Album_noise", "id": 2376066, "predecessors": [{"name": "Album_di_musica_elettronica", "id": 2345590}, {"name": "Generi_musicali_di_musica_elettronica", "id": 2529552}], "successors": []}
