@@ -1,1 +1,1 @@
-{"name": "Action_figure", "id": 3406969, "predecessors": [{"name": "Giocattoli", "id": 83641}], "successors": [{"name": "Personaggi_dei_Transformers", "id": 1372453}, {"name": "Personaggi_di_Masters_of_the_Universe", "id": 1809582}]}
+{"name": "Action_figure", "id": 3406969, "predecessors": [{"name": "Giocattoli", "id": 83641}], "successors": [{"name": "Personaggi_di_Masters_of_the_Universe", "id": 1809582}]}

@@ -1,1 +1,1 @@
-{"name": "Primati_fossili", "id": 2930414, "predecessors": [{"name": "Mammiferi_fossili", "id": 7699778}, {"name": "Antropologia_fisica", "id": 210015}, {"name": "Mammiferi", "id": 46911}], "successors": []}
+{"name": "Primati_fossili", "id": 2930414, "predecessors": [{"name": "Mammiferi_fossili", "id": 7699778}, {"name": "Antropologia_fisica", "id": 210015}, {"name": "Mammiferi", "id": 46911}], "successors": [{"name": "Homo_sapiens", "id": 10083427}]}

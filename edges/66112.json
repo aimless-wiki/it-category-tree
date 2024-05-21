@@ -1,1 +1,1 @@
-{"name": "Metalli", "id": 66112, "predecessors": [{"name": "Elementi_chimici", "id": 24565}, {"name": "Materiali", "id": 74253}], "successors": [{"name": "Metallurgia", "id": 58849}, {"name": "Oreficeria", "id": 475229}, {"name": "Monete_d'oro", "id": 1357433}]}
+{"name": "Metalli", "id": 66112, "predecessors": [{"name": "Elementi_chimici", "id": 24565}, {"name": "Materiali", "id": 74253}], "successors": [{"name": "Metallurgia", "id": 58849}, {"name": "Oreficeria", "id": 475229}, {"name": "Monete_d'oro", "id": 1357433}, {"name": "Minerali_dell'alluminio", "id": 4536348}]}

@@ -1,1 +1,1 @@
-{"name": "Autismo", "id": 480102, "predecessors": [{"name": "Disturbi_psichici", "id": 315358}, {"name": "Pediatria", "id": 121438}, {"name": "Infanzia", "id": 473744}], "successors": [{"name": "Film_sull'autismo", "id": 8492658}]}
+{"name": "Autismo", "id": 480102, "predecessors": [{"name": "Disturbi_psichici", "id": 315358}, {"name": "Neuropsichiatria_infantile", "id": 308674}, {"name": "Pediatria", "id": 121438}], "successors": [{"name": "Film_sull'autismo", "id": 8492658}]}
