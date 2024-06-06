@@ -1,1 +1,1 @@
-{"name": "Saggisti_tedeschi", "id": 1390395, "predecessors": [{"name": "Artisti_tedeschi", "id": 1528365}, {"name": "Generi_letterari", "id": 27499}], "successors": []}
+{"name": "Saggisti_tedeschi", "id": 1390395, "predecessors": [{"name": "Generi_letterari", "id": 27499}, {"name": "Categorie", "id": 41474}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Generali_statunitensi", "id": 1216172, "predecessors": [{"name": "Militari_statunitensi", "id": 292322}, {"name": "Gradi_militari", "id": 344950}], "successors": []}
+{"name": "Generali_statunitensi", "id": 1216172, "predecessors": [{"name": "Forze_armate_statunitensi", "id": 324549}, {"name": "Gradi_militari", "id": 344950}], "successors": [{"name": "Generali_del_United_States_Army", "id": 10140397}]}
