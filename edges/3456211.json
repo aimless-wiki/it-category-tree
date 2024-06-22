@@ -1,1 +1,1 @@
-{"name": "Allenatori_del_F.K._Vardar", "id": 3456211, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Sport_di_squadra", "id": 39757}], "successors": []}
+{"name": "Allenatori_del_F.K._Vardar", "id": 3456211, "predecessors": [{"name": "Sport_di_squadra", "id": 39757}, {"name": "Categorie", "id": 41474}], "successors": []}

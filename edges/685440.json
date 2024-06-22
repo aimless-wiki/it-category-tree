@@ -1,1 +1,1 @@
-{"name": "Demografia", "id": 685440, "predecessors": [{"name": "Statistica", "id": 34541}], "successors": [{"name": "Epidemiologia", "id": 76085}, {"name": "Migrazioni_umane", "id": 2081526}, {"name": "Censimenti_degli_Stati_Uniti_d'America", "id": 4697173}]}
+{"name": "Demografia", "id": 685440, "predecessors": [{"name": "Statistica", "id": 34541}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Epidemiologia", "id": 76085}, {"name": "Migrazioni_umane", "id": 2081526}, {"name": "Censimenti_degli_Stati_Uniti_d'America", "id": 4697173}]}

@@ -1,1 +1,1 @@
-{"name": "Allenatori_del_S.K._Dinamo_Tbilisi", "id": 2441577, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Sport_di_squadra", "id": 39757}], "successors": []}
+{"name": "Allenatori_del_S.K._Dinamo_Tbilisi", "id": 2441577, "predecessors": [{"name": "Sport_di_squadra", "id": 39757}, {"name": "Categorie", "id": 41474}, {"name": "Economia", "id": 27583}], "successors": []}

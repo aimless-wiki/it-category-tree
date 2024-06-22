@@ -1,1 +1,1 @@
-{"name": "Campionato_svizzero_di_calcio_femminile", "id": 4444156, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Sport_di_squadra", "id": 39757}], "successors": [{"name": "Women's_Super_League_(Svizzera)", "id": 5483387}]}
+{"name": "Campionato_svizzero_femminile_di_calcio", "id": 4444156, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Sport_di_squadra", "id": 39757}], "successors": [{"name": "Women's_Super_League_(Svizzera)", "id": 5483387}]}

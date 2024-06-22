@@ -1,1 +1,1 @@
-{"name": "Biotecnologie", "id": 404406, "predecessors": [{"name": "Biologia", "id": 24987}, {"name": "Tecnologia", "id": 75186}, {"name": "Categorie", "id": 41474}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Bioinformatica", "id": 678184}]}
+{"name": "Biotecnologie", "id": 404406, "predecessors": [{"name": "Biologia", "id": 24987}, {"name": "Tecnologia", "id": 75186}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Bioinformatica", "id": 678184}]}

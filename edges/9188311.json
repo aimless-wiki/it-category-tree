@@ -1,1 +1,1 @@
-{"name": "Film_basati_su_opere_teatrali_statunitensi", "id": 9188311, "predecessors": [{"name": "Film_basati_su_opere_letterarie_di_autori_statunitensi", "id": 9189806}, {"name": "Film_basati_su_opere_teatrali", "id": 4528391}], "successors": []}
+{"name": "Film_basati_su_opere_teatrali_di_autori_statunitensi", "id": 9188311, "predecessors": [{"name": "Film_basati_su_opere_letterarie_di_autori_statunitensi", "id": 9189806}, {"name": "Opere_teatrali_di_autori_statunitensi", "id": 473382}, {"name": "Film_basati_su_opere_teatrali", "id": 4528391}], "successors": []}

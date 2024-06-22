@@ -1,1 +1,1 @@
-{"name": "Resti_umani", "id": 1500405, "predecessors": [{"name": "Morte", "id": 110358}, {"name": "Antropologia_fisica", "id": 210015}, {"name": "Storiografia", "id": 720008}], "successors": [{"name": "Mummie", "id": 4885494}]}
+{"name": "Resti_umani", "id": 1500405, "predecessors": [{"name": "Fossili_di_Homo_sapiens", "id": 10161959}, {"name": "Morte", "id": 110358}, {"name": "Antropologia_fisica", "id": 210015}, {"name": "Storiografia", "id": 720008}], "successors": [{"name": "Mummie", "id": 4885494}]}

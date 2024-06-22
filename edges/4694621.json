@@ -1,1 +1,1 @@
-{"name": "Medicina_veterinaria", "id": 4694621, "predecessors": [{"name": "Medicina", "id": 27684}, {"name": "Zoologia", "id": 27885}], "successors": []}
+{"name": "Medicina_veterinaria", "id": 4694621, "predecessors": [{"name": "Zoologia", "id": 27885}, {"name": "Salute", "id": 128360}], "successors": []}

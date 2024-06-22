@@ -1,1 +1,1 @@
-{"name": "Crisi_economiche", "id": 427597, "predecessors": [{"name": "Crisi", "id": 285659}, {"name": "Storia_economica", "id": 56348}, {"name": "Macroeconomia", "id": 308883}], "successors": []}
+{"name": "Crisi_economiche", "id": 427597, "predecessors": [{"name": "Crisi", "id": 285659}, {"name": "Rischio_in_economia", "id": 5322825}, {"name": "Storia_economica", "id": 56348}, {"name": "Macroeconomia", "id": 308883}], "successors": []}

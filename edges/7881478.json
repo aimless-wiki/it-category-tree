@@ -1,1 +1,1 @@
-{"name": "Salto_in_alto_ai_campionati_del_mondo_di_atletica_leggera", "id": 7881478, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Campionati_mondiali", "id": 2933579}], "successors": []}
+{"name": "Salto_in_alto_ai_campionati_del_mondo_di_atletica_leggera", "id": 7881478, "predecessors": [{"name": "Campionati_mondiali", "id": 2933579}, {"name": "Categorie", "id": 41474}], "successors": []}

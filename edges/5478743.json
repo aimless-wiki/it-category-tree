@@ -1,1 +1,1 @@
-{"name": "Calciatori_del_Cuiabá_E.C.", "id": 5478743, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Sport_di_squadra", "id": 39757}], "successors": []}
+{"name": "Calciatori_del_Cuiabá_E.C.", "id": 5478743, "predecessors": [{"name": "Sport_di_squadra", "id": 39757}, {"name": "Categorie", "id": 41474}], "successors": []}

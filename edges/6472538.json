@@ -1,1 +1,1 @@
-{"name": "Studenti_dell'Università_di_Lubiana", "id": 6472538, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Università", "id": 77876}, {"name": "Capitali_di_stato", "id": 77976}], "successors": []}
+{"name": "Studenti_dell'Università_di_Lubiana", "id": 6472538, "predecessors": [{"name": "Università", "id": 77876}, {"name": "Capitali_di_stato", "id": 77976}, {"name": "Categorie", "id": 41474}], "successors": []}

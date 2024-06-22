@@ -1,1 +1,1 @@
-{"name": "Popoli_nomadi", "id": 487334, "predecessors": [{"name": "Geografia_umana", "id": 388648}, {"name": "Antropologia_culturale", "id": 491891}], "successors": [{"name": "Tuareg", "id": 377422}, {"name": "Popolazione_romaní", "id": 1777276}, {"name": "Beduini", "id": 4744944}]}
+{"name": "Popoli_nomadi", "id": 487334, "predecessors": [{"name": "Antropologia", "id": 51062}, {"name": "Antropologia_culturale", "id": 491891}], "successors": [{"name": "Tuareg", "id": 377422}, {"name": "Popolazione_romaní", "id": 1777276}, {"name": "Beduini", "id": 4744944}]}

@@ -1,1 +1,1 @@
-{"name": "Memoria", "id": 1359880, "predecessors": [{"name": "Concetti_e_principi_filosofici", "id": 210722}, {"name": "Processi_cognitivi", "id": 1285255}, {"name": "Metafisica", "id": 111891}], "successors": [{"name": "Scrittura", "id": 102771}, {"name": "Conoscenza", "id": 2644972}, {"name": "Memoria_del_mondo", "id": 3876879}]}
+{"name": "Memoria", "id": 1359880, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Scrittura", "id": 102771}]}
