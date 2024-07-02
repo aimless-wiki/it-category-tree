@@ -1,1 +1,1 @@
-{"name": "Attrezzi_da_cucina", "id": 5254029, "predecessors": [{"name": "Attrezzi", "id": 275545}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Bicchieri", "id": 1368392}, {"name": "Stoviglie", "id": 2067455}, {"name": "Pentole", "id": 2069471}]}
+{"name": "Attrezzi_da_cucina", "id": 5254029, "predecessors": [{"name": "Attrezzi", "id": 275545}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Bicchieri", "id": 1368392}, {"name": "Stoviglie", "id": 2067455}, {"name": "Pentole", "id": 2069471}]}

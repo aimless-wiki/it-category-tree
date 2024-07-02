@@ -1,1 +1,1 @@
-{"name": "Produttori_di_telefoni_cellulari", "id": 1506269, "predecessors": [{"name": "Telefonia_mobile", "id": 52883}, {"name": "Economia", "id": 27583}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Siemens", "id": 5736239}, {"name": "Cellulari_Xiaomi", "id": 8142873}]}
+{"name": "Produttori_di_telefoni_cellulari", "id": 1506269, "predecessors": [{"name": "Telefonia_mobile", "id": 52883}, {"name": "Economia", "id": 27583}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Siemens", "id": 5736239}, {"name": "Cellulari_Xiaomi", "id": 8142873}]}

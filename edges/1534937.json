@@ -1,1 +1,1 @@
-{"name": "Giochi_di_logica", "id": 1534937, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Rompicapi_meccanici", "id": 3413111}]}
+{"name": "Giochi_di_logica", "id": 1534937, "predecessors": [{"name": "Logica", "id": 42517}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Rompicapi_meccanici", "id": 3413111}]}

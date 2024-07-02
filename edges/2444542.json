@@ -1,1 +1,1 @@
-{"name": "Sculture_perdute", "id": 2444542, "predecessors": [{"name": "Beni_culturali", "id": 338875}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Sculture_perdute", "id": 2444542, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Beni_culturali", "id": 338875}], "successors": []}

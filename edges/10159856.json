@@ -1,1 +1,1 @@
-{"name": "Minerali_del_silicio", "id": 10159856, "predecessors": [{"name": "Elementi_chimici", "id": 24565}], "successors": []}
+{"name": "Minerali_del_silicio", "id": 10159856, "predecessors": [{"name": "Elementi_chimici", "id": 24565}], "successors": [{"name": "Tettosilicati", "id": 1105117}, {"name": "Nesosilicati", "id": 1105267}, {"name": "Ciclosilicati", "id": 1895758}, {"name": "Sorosilicati", "id": 2264029}, {"name": "Inosilicati", "id": 2264172}, {"name": "Fillosilicati", "id": 2264695}, {"name": "Silicati_non_classificati", "id": 4856511}]}

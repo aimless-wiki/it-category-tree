@@ -1,1 +1,1 @@
-{"name": "Dietetica", "id": 606365, "predecessors": [{"name": "Salute", "id": 128360}, {"name": "Medicina", "id": 27684}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Sistema_digerente", "id": 3530156}, {"name": "Diete", "id": 4723338}]}
+{"name": "Dietetica", "id": 606365, "predecessors": [{"name": "Salute", "id": 128360}, {"name": "Medicina", "id": 27684}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Sistema_digerente", "id": 3530156}, {"name": "Diete", "id": 4723338}]}

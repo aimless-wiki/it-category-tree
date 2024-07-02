@@ -1,1 +1,1 @@
-{"name": "Filosofia_della_matematica", "id": 82123, "predecessors": [{"name": "Filosofia_della_scienza", "id": 521365}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Teoria_dei_giochi", "id": 42881}, {"name": "Teoria_dei_linguaggi_formali", "id": 42408}]}
+{"name": "Filosofia_della_matematica", "id": 82123, "predecessors": [{"name": "Filosofia_della_scienza", "id": 521365}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Teoria_dei_giochi", "id": 42881}]}

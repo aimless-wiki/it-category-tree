@@ -1,1 +1,1 @@
-{"name": "Pesca", "id": 113303, "predecessors": [{"name": "Acqua", "id": 1445690}, {"name": "Hobby", "id": 45721}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Pesca_sportiva", "id": 1111406}, {"name": "Attrezzatura_da_pesca", "id": 2251168}]}
+{"name": "Pesca", "id": 113303, "predecessors": [{"name": "Acqua", "id": 1445690}, {"name": "Hobby", "id": 45721}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Pesca_sportiva", "id": 1111406}, {"name": "Attrezzatura_da_pesca", "id": 2251168}]}

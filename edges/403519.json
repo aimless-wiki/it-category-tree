@@ -1,1 +1,1 @@
-{"name": "Tecniche_di_laboratorio", "id": 403519, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Organismi_modello", "id": 304615}, {"name": "Tecniche_di_microbiologia", "id": 799903}]}
+{"name": "Tecniche_di_laboratorio", "id": 403519, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Organismi_modello", "id": 304615}, {"name": "Tecniche_di_microbiologia", "id": 799903}]}

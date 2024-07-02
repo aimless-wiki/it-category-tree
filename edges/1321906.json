@@ -1,1 +1,1 @@
-{"name": "Logica_modale", "id": 1321906, "predecessors": [{"name": "Logica_matematica", "id": 43003}], "successors": []}
+{"name": "Logica_modale", "id": 1321906, "predecessors": [{"name": "Logica", "id": 42517}, {"name": "Logica_matematica", "id": 43003}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tecniche_di_cucina", "id": 603780, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Grigliata", "id": 7860013}, {"name": "Stufati", "id": 8172170}, {"name": "Fritture", "id": 3909165}]}
+{"name": "Tecniche_di_cucina", "id": 603780, "predecessors": [{"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Grigliata", "id": 7860013}, {"name": "Stufati", "id": 8172170}, {"name": "Fritture", "id": 3909165}]}

@@ -1,1 +1,1 @@
-{"name": "Filosofia_della_scienza", "id": 521365, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Filosofia_della_matematica", "id": 82123}, {"name": "Filosofi_della_scienza", "id": 7576550}]}
+{"name": "Filosofia_della_scienza", "id": 521365, "predecessors": [{"name": "Filosofia", "id": 24638}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Filosofia_della_matematica", "id": 82123}, {"name": "Filosofi_della_scienza", "id": 7576550}]}

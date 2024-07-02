@@ -1,1 +1,1 @@
-{"name": "Giardinaggio", "id": 74927, "predecessors": [{"name": "Botanica", "id": 28113}, {"name": "Hobby", "id": 45721}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Piante_ornamentali", "id": 75395}]}
+{"name": "Giardinaggio", "id": 74927, "predecessors": [{"name": "Botanica", "id": 28113}, {"name": "Hobby", "id": 45721}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Piante_ornamentali", "id": 75395}]}

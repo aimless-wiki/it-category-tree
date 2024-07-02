@@ -1,1 +1,1 @@
-{"name": "Memoria", "id": 1359880, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Scrittura", "id": 102771}]}
+{"name": "Memoria", "id": 1359880, "predecessors": [{"name": "Concetti_e_principi_filosofici", "id": 210722}, {"name": "Metafisica", "id": 111891}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Scrittura", "id": 102771}]}

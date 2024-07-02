@@ -1,1 +1,1 @@
-{"name": "Fitness", "id": 4145105, "predecessors": [{"name": "Medicina_sportiva", "id": 579986}, {"name": "Allenamento_sportivo", "id": 5303214}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Fitness", "id": 4145105, "predecessors": [{"name": "Medicina_sportiva", "id": 579986}, {"name": "Allenamento_sportivo", "id": 5303214}, {"name": "Ominidi", "id": 1409322}], "successors": []}

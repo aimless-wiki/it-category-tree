@@ -1,1 +1,1 @@
-{"name": "Musicisti_new_wave", "id": 2477229, "predecessors": [{"name": "Musicisti_punk_rock", "id": 2560112}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Cantanti_new_wave", "id": 2477302}, {"name": "Cantautori_new_wave", "id": 2477337}]}
+{"name": "Musicisti_new_wave", "id": 2477229, "predecessors": [{"name": "Musicisti_punk_rock", "id": 2560112}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Cantanti_new_wave", "id": 2477302}, {"name": "Cantautori_new_wave", "id": 2477337}]}

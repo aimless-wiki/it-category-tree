@@ -1,1 +1,1 @@
-{"name": "Fast_food", "id": 2372340, "predecessors": [{"name": "Esercizi_commerciali", "id": 1066610}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "McDonald's", "id": 1644535}]}
+{"name": "Fast_food", "id": 2372340, "predecessors": [{"name": "Esercizi_commerciali", "id": 1066610}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "McDonald's", "id": 1644535}]}

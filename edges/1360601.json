@@ -1,1 +1,1 @@
-{"name": "Cicloni_tropicali", "id": 1360601, "predecessors": [{"name": "Dinamica_atmosferica", "id": 1456139}, {"name": "Categorie", "id": 41474}, {"name": "Sicurezza", "id": 493345}], "successors": [{"name": "Uragani_atlantici", "id": 10064319}]}
+{"name": "Cicloni_tropicali", "id": 1360601, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Dinamica_atmosferica", "id": 1456139}, {"name": "Sicurezza", "id": 493345}], "successors": [{"name": "Uragani_atlantici", "id": 10064319}]}

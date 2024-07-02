@@ -1,1 +1,1 @@
-{"name": "Algebra_lineare", "id": 40771, "predecessors": [{"name": "Geometria", "id": 28057}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Operatori_lineari", "id": 5120657}, {"name": "Tensori", "id": 1662719}]}
+{"name": "Algebra_lineare", "id": 40771, "predecessors": [{"name": "Geometria", "id": 28057}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Operatori_lineari", "id": 5120657}, {"name": "Tensori", "id": 1662719}]}

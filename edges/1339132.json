@@ -1,1 +1,1 @@
-{"name": "Scienziati_francesi", "id": 1339132, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Biologi_francesi", "id": 39313}, {"name": "Astronomi_francesi", "id": 44578}, {"name": "Geologi_francesi", "id": 95354}]}
+{"name": "Scienziati_francesi", "id": 1339132, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Biologi_francesi", "id": 39313}, {"name": "Astronomi_francesi", "id": 44578}, {"name": "Geologi_francesi", "id": 95354}]}
