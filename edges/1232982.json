@@ -1,1 +1,1 @@
-{"name": "Videogiochi_Nintendo", "id": 1232982, "predecessors": [{"name": "Nintendo", "id": 257494}], "successors": [{"name": "Super_Mario", "id": 9889391}]}
+{"name": "Videogiochi_Nintendo", "id": 1232982, "predecessors": [{"name": "Nintendo", "id": 257494}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "Super_Mario", "id": 9889391}]}

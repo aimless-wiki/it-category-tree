@@ -1,1 +1,1 @@
-{"name": "Mafiosi_statunitensi", "id": 2449746, "predecessors": [{"name": "Criminali_statunitensi", "id": 609062}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Mafiosi_italoamericani", "id": 1292592}]}
+{"name": "Mafiosi_statunitensi", "id": 2449746, "predecessors": [{"name": "Criminali_statunitensi", "id": 609062}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Mafiosi_italoamericani", "id": 1292592}]}

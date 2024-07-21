@@ -1,1 +1,1 @@
-{"name": "Musicisti_speed_metal", "id": 2477265, "predecessors": [{"name": "Musicisti_heavy_metal", "id": 2475712}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Cantanti_speed_metal", "id": 1586849}]}
+{"name": "Musicisti_speed_metal", "id": 2477265, "predecessors": [{"name": "Musicisti_heavy_metal", "id": 2475712}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Cantanti_speed_metal", "id": 1586849}]}

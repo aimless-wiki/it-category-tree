@@ -1,1 +1,1 @@
-{"name": "Pesca_sportiva", "id": 1111406, "predecessors": [{"name": "Pesca", "id": 113303}, {"name": "Acqua", "id": 1445690}, {"name": "Ominidi", "id": 1409322}], "successors": []}
+{"name": "Pesca_sportiva", "id": 1111406, "predecessors": [{"name": "Pesca", "id": 113303}, {"name": "Acqua", "id": 1445690}, {"name": "Categorie", "id": 41474}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Poeti_greci", "id": 28100, "predecessors": [{"name": "Scrittori_greci", "id": 33011}, {"name": "Categorie", "id": 41474}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Poeti_greci_antichi", "id": 1942654}]}
+{"name": "Poeti_greci", "id": 28100, "predecessors": [{"name": "Scrittori_greci", "id": 33011}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Poeti_greci_antichi", "id": 1942654}]}

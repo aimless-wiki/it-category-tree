@@ -1,1 +1,1 @@
-{"name": "Ambienti_di_sviluppo_liberi", "id": 4106985, "predecessors": [{"name": "Ambienti_di_sviluppo", "id": 875226}, {"name": "Software_libero", "id": 27385}], "successors": []}
+{"name": "Ambienti_di_sviluppo_liberi", "id": 4106985, "predecessors": [{"name": "Ambienti_di_sviluppo", "id": 875226}, {"name": "Software_libero", "id": 27385}], "successors": [{"name": "Framework_per_applicazioni_web_liberi", "id": 4733709}]}

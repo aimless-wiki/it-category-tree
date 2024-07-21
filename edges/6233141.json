@@ -1,1 +1,1 @@
-{"name": "Squadre_automobilistiche_italiane", "id": 6233141, "predecessors": [{"name": "Economia", "id": 27583}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Piloti_della_AF_Corse", "id": 9369202}]}
+{"name": "Squadre_automobilistiche_italiane", "id": 6233141, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Economia", "id": 27583}], "successors": [{"name": "Piloti_della_AF_Corse", "id": 9369202}]}

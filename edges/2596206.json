@@ -1,1 +1,1 @@
-{"name": "Alimentazione_animale", "id": 2596206, "predecessors": [{"name": "Allevamento", "id": 73432}, {"name": "Fisiologia_animale", "id": 1953432}, {"name": "Ominidi", "id": 1409322}], "successors": []}
+{"name": "Alimentazione_animale", "id": 2596206, "predecessors": [{"name": "Allevamento", "id": 73432}, {"name": "Fisiologia_animale", "id": 1953432}, {"name": "Categorie", "id": 41474}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Liste_di_sportivi", "id": 435532, "predecessors": [{"name": "Liste_di_persone_per_attività", "id": 1135749}, {"name": "Liste_di_sport", "id": 464594}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Liste_di_calciatori", "id": 2238217}]}
+{"name": "Liste_di_sportivi", "id": 435532, "predecessors": [{"name": "Liste_di_persone_per_attività", "id": 1135749}, {"name": "Liste_di_sport", "id": 464594}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Liste_di_calciatori", "id": 2238217}]}

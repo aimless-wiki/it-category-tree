@@ -1,1 +1,1 @@
-{"name": "Morti_per_incidente_stradale", "id": 3698191, "predecessors": [{"name": "Violenza", "id": 355534}, {"name": "Tecnologia", "id": 75186}], "successors": [{"name": "Piloti_deceduti_in_competizioni_motoristiche", "id": 2308774}]}
+{"name": "Morti_per_incidente_stradale", "id": 3698191, "predecessors": [{"name": "Violenza", "id": 355534}, {"name": "Tecnologia", "id": 75186}], "successors": [{"name": "Piloti_automobilistici_morti_durante_l'attività", "id": 10132829}, {"name": "Piloti_motociclistici_morti_durante_l'attività", "id": 10132830}]}

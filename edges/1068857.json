@@ -1,1 +1,1 @@
-{"name": "Compagnie_aeree_russe", "id": 1068857, "predecessors": [{"name": "Aziende_russe", "id": 132325}, {"name": "Economia", "id": 27583}, {"name": "Categorie", "id": 41474}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Compagnie_aeree_del_passato_russe", "id": 6884532}]}
+{"name": "Compagnie_aeree_russe", "id": 1068857, "predecessors": [{"name": "Aziende_russe", "id": 132325}, {"name": "Economia", "id": 27583}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Compagnie_aeree_del_passato_russe", "id": 6884532}]}

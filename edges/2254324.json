@@ -1,1 +1,1 @@
-{"name": "WTA_Tour", "id": 2254324, "predecessors": [{"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Stagioni_del_WTA_Tour", "id": 4707306}]}
+{"name": "WTA_Tour", "id": 2254324, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Stagioni_del_WTA_Tour", "id": 4707306}]}

@@ -1,1 +1,1 @@
-{"name": "Tavola", "id": 2066455, "predecessors": [{"name": "Arredamento", "id": 275079}, {"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Bicchieri", "id": 1368392}, {"name": "Stoviglie", "id": 2067455}]}
+{"name": "Tavola", "id": 2066455, "predecessors": [{"name": "Arredamento", "id": 275079}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Bicchieri", "id": 1368392}, {"name": "Stoviglie", "id": 2067455}]}

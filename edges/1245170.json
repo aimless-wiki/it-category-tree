@@ -1,1 +1,1 @@
-{"name": "Progettisti_di_armi_da_fuoco", "id": 1245170, "predecessors": [{"name": "Armi_da_fuoco", "id": 335391}, {"name": "Armi", "id": 42473}, {"name": "Ominidi", "id": 1409322}], "successors": []}
+{"name": "Progettisti_di_armi_da_fuoco", "id": 1245170, "predecessors": [{"name": "Armi_da_fuoco", "id": 335391}, {"name": "Categorie", "id": 41474}, {"name": "Armi", "id": 42473}], "successors": []}

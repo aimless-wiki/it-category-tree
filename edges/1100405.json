@@ -1,1 +1,1 @@
-{"name": "Virgin_Interactive", "id": 1100405, "predecessors": [{"name": "Aziende_britanniche_di_videogiochi", "id": 3703270}, {"name": "Aziende_del_passato_britanniche", "id": 2482401}, {"name": "Aziende_di_videogiochi_del_passato", "id": 4781923}, {"name": "Economia", "id": 27583}], "successors": []}
+{"name": "Videogiochi_Virgin_Interactive", "id": 1100405, "predecessors": [{"name": "Economia", "id": 27583}, {"name": "Informatica", "id": 24695}], "successors": []}
