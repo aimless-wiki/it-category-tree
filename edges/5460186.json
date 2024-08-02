@@ -1,1 +1,1 @@
-{"name": "Anatomia_dei_mammiferi", "id": 5460186, "predecessors": [{"name": "Mammiferi", "id": 46911}, {"name": "Anatomia_animale", "id": 479755}], "successors": [{"name": "Cura_dei_capelli", "id": 2076853}]}
+{"name": "Anatomia_dei_mammiferi", "id": 5460186, "predecessors": [{"name": "Anatomia_dei_vertebrati", "id": 5460205}, {"name": "Mammiferi", "id": 46911}], "successors": [{"name": "Cura_dei_capelli", "id": 2076853}]}

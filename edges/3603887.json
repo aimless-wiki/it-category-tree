@@ -1,1 +1,1 @@
-{"name": "Scolastica", "id": 3603887, "predecessors": [{"name": "Scuole_e_correnti_filosofiche", "id": 43123}, {"name": "Storia_medievale", "id": 3254379}], "successors": [{"name": "Scolastici", "id": 375696}]}
+{"name": "Scolastica", "id": 3603887, "predecessors": [{"name": "Filosofia_medievale", "id": 3275060}, {"name": "Scuole_e_correnti_filosofiche", "id": 43123}, {"name": "Storia_medievale", "id": 3254379}], "successors": [{"name": "Scolastici", "id": 375696}]}
