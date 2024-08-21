@@ -1,1 +1,1 @@
-{"name": "Software_libero_in_Perl", "id": 6230270, "predecessors": [{"name": "Informatica", "id": 24695}, {"name": "Software_libero", "id": 27385}], "successors": [{"name": "GNOME", "id": 444473}]}
+{"name": "Software_libero_in_Perl", "id": 6230270, "predecessors": [{"name": "Software_libero", "id": 27385}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "GNOME", "id": 444473}]}

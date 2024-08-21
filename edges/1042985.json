@@ -1,1 +1,1 @@
-{"name": "Componenti_per_computer", "id": 1042985, "predecessors": [{"name": "Dispositivi_elettronici", "id": 1053982}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "Circuiti_integrati", "id": 3241766}, {"name": "Bus", "id": 4111736}]}
+{"name": "Componenti_per_computer", "id": 1042985, "predecessors": [{"name": "Dispositivi_elettronici", "id": 1053982}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Circuiti_integrati", "id": 3241766}, {"name": "Bus", "id": 4111736}]}

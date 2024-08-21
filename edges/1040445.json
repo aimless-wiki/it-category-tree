@@ -1,1 +1,1 @@
-{"name": "Personal_computer", "id": 1040445, "predecessors": [{"name": "Informatica", "id": 24695}], "successors": [{"name": "Personal_computer_della_Olivetti", "id": 3709036}, {"name": "Computer_Macintosh", "id": 10013954}]}
+{"name": "Personal_computer", "id": 1040445, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Personal_computer_della_Olivetti", "id": 3709036}, {"name": "Computer_Macintosh", "id": 10013954}]}

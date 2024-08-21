@@ -1,1 +1,1 @@
-{"name": "Software_per_iOS", "id": 3232584, "predecessors": [{"name": "Software_Apple", "id": 43840}, {"name": "Informatica", "id": 24695}, {"name": "Apple", "id": 39388}, {"name": "Dispositivi_elettronici", "id": 1053982}], "successors": [{"name": "Videogiochi_per_iOS", "id": 3041930}]}
+{"name": "Software_per_iOS", "id": 3232584, "predecessors": [{"name": "Software_Apple", "id": 43840}, {"name": "Apple", "id": 39388}, {"name": "Dispositivi_elettronici", "id": 1053982}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Videogiochi_per_iOS", "id": 3041930}]}

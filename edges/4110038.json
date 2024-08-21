@@ -1,0 +1,1 @@
+{"name": "Desktop_environment_liberi", "id": 4110038, "predecessors": [{"name": "Interfacce_grafiche", "id": 86108}, {"name": "Software_libero", "id": 27385}], "successors": [{"name": "KDE", "id": 149779}, {"name": "GNOME", "id": 444473}]}

@@ -1,1 +1,1 @@
-{"name": "Servizi_di_rete", "id": 1063379, "predecessors": [{"name": "Telematica", "id": 2305969}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "Motori_di_ricerca", "id": 330014}, {"name": "Social_network", "id": 2944798}]}
+{"name": "Servizi_di_rete", "id": 1063379, "predecessors": [{"name": "Telematica", "id": 2305969}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Motori_di_ricerca", "id": 330014}, {"name": "Social_network", "id": 2944798}]}

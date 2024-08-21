@@ -3,7 +3,6 @@
 24650 Cristallografia
 24651 Mineralogia
 24663 Linguaggi_di_programmazione
-24695 Informatica
 24707 Internet
 24711 Fisica
 24715 Gruppi_musicali_italiani
@@ -28,7 +27,6 @@
 27271 Fisici_austriaci
 27296 Fisici_russi
 27302 Fisici_svizzeri
-27319 Scrittori_danesi
 27322 Architettura
 27328 Design
 27342 Poeti_norvegesi
@@ -237,7 +235,6 @@
 40363 Musicisti_tango
 40366 Compositori_argentini
 40504 Direttori_d'orchestra_italiani
-40558 Intrattenimento
 40763 Tennisti_slovacchi
 40764 Tennisti_svizzeri
 40767 Registi_polacchi
@@ -492,8 +489,6 @@
 54399 Nautica
 54515 Formati_di_file_grafici
 54517 Formati_di_file
-54605 Direttori_d'orchestra_russi
-54611 Musicisti_russi
 54819 Scrittori_rumeni
 54820 Scrittori_portoghesi
 54877 Festività_ebraiche
@@ -1200,6 +1195,7 @@
 103686 Acidi_carbossilici
 103687 Composti_aromatici
 103779 Nitrocomposti
+103883 Scrittori_estoni
 103958 Storia_delle_tecnologie_militari
 103989 Storia_di_Venezia
 104052 Cantanti_austriaci
@@ -1926,7 +1922,6 @@
 220766 Tecnofibre
 220968 Album_degli_Iron_Maiden
 220975 Copyright_di_Wikimedia
-221092 Esercito_Sabaudo
 221994 Unità_di_massa
 221997 Cantanti_blues
 222141 Radiologia
@@ -2171,7 +2166,6 @@
 250473 Campionati_mondiali_di_sci_alpino
 250486 Fedi,_tradizioni_e_movimenti_religiosi
 250554 Classici_Disney
-250581 Frazioni_della_provincia_di_Lecce
 251047 Registi_turchi
 251303 Tennisti_croati
 252381 Manifestazioni_musicali
@@ -2183,14 +2177,12 @@
 253590 Comici_britannici
 253593 Comici_canadesi
 253616 Comici_statunitensi
-253694 Società_di_pallacanestro_italiane
 253715 Ericaceae
 253839 Malattie_del_sistema_nervoso_periferico
 253990 Codici_IATA_divisi_per_lettera
 254545 Satelliti_di_Urano
 254852 Allenatori_di_calcio_jugoslavi
 255133 Videogiochi_per_Linux
-255160 Attori_neozelandesi
 255248 Religione_e_politica
 255489 Treni
 255770 Religiosi_russi
@@ -2608,7 +2600,6 @@
 315378 Malattie_tiroidee
 315724 Cavalieri_britannici
 315753 Giornalisti_israeliani
-315755 Giornalisti_argentini
 315765 Poeti_sovietici
 315770 Scrittori_sovietici
 316036 Liste_di_letteratura
@@ -3254,6 +3245,7 @@
 448265 Filosofia_politica
 449806 Meccanica_statistica
 450005 Presidenti_della_Bolivia
+450205 Ancona
 450940 Borse
 450951 Servizi_finanziari
 451347 Mustelidi
@@ -4058,7 +4050,6 @@
 572968 Album_di_Joni_Mitchell
 573149 Singoli_del_1993
 573154 Singoli_del_2005
-573189 Calciatori_libici
 573409 Album_stoner_rock
 573465 Singoli_del_1994
 573468 Singoli_del_1969
@@ -4348,6 +4339,7 @@
 613670 Storia_dell'Armenia
 613858 Primi_piatti
 614055 Orientalisti_francesi
+614279 Distretti_della_Serbia
 614556 Politici_del_Partito_Sardo_d'Azione
 614564 Ingegneria_industriale
 614582 Singoli_di_Britney_Spears
@@ -4668,7 +4660,6 @@
 680782 Aerei_militari_dal_1931_al_1945
 680785 Aerei_militari_dal_1946_al_1960
 680789 Aerei_militari_dal_1961_al_1991
-681074 Attori_thailandesi
 681260 Violinisti_cechi
 681375 Aerei_militari_italiani
 681378 Aerei_militari_britannici
@@ -4820,7 +4811,6 @@
 715995 Valli_della_Valle_d'Aosta
 716556 Case_automobilistiche_britanniche
 716572 Case_automobilistiche_statunitensi
-716574 Case_automobilistiche_francesi
 716587 Espressione_genica
 716749 Chiese_di_Mantova
 716785 Singoli_di_Renato_Zero
@@ -4835,6 +4825,7 @@
 717897 Shōnen
 717902 Shōjo
 717957 Crimini_perpetrati_durante_la_seconda_guerra_mondiale
+718079 Cartografi_olandesi
 718081 Cartografi_tedeschi
 718092 Etnologi_francesi
 718140 Valichi_della_Valle_d'Aosta
@@ -5039,6 +5030,7 @@
 765413 Vandali_di_Wikipedia
 766386 Modelli_canadesi
 766737 Saldature
+767512 Canoisti_cechi
 767900 Politici_paraguaiani
 767949 Micologi_francesi
 768301 Wi-Fi
@@ -5497,7 +5489,6 @@
 874988 Vescovi_di_Lodi
 875226 Ambienti_di_sviluppo
 875388 Videogiochi_di_pallacanestro
-875715 Strumenti_di_sistema
 875753 Primi_computer
 876308 Poeti_svedesi
 876765 Template_di_navigazione_-_videogiochi
@@ -5731,7 +5722,6 @@
 1036553 Utenti_napoletani
 1040445 Personal_computer
 1040549 Motoveicoli_Piaggio
-1040559 Computer_portatili
 1040715 Giornalisti_ucraini
 1041066 Singoli_dei_Rammstein
 1041141 Film_sulla_pallacanestro
@@ -5944,6 +5934,7 @@
 1096635 Template_di_navigazione_-_convocati_della_Nazionale_di_calcio_del_Cile
 1096775 Wikipedia_Bar_-_maggio_2007
 1097228 Album_di_Ron
+1097765 Rapper_svedesi
 1097875 Coreggenti
 1098081 Standard_ISO_3166-2
 1098239 Wikipedia_Bar_-_Archivio_2007-18
@@ -7335,6 +7326,7 @@
 1377536 Automobili_Plymouth
 1378597 UNESCO
 1378757 Alghe_rosse
+1379043 Politici_taiwanesi
 1379064 EC_1.3.1
 1379378 Chiese_di_Montalcino
 1379590 Template_bandierine_CIO
@@ -7914,6 +7906,7 @@
 1491664 Premi_letterari_tedeschi
 1491674 Roma_Q._XXXII_Europa
 1491819 Gruppi_musicali_darkwave
+1492115 Editori_olandesi
 1492186 Singoli_di_Laura_Pausini
 1492189 Didattica
 1492875 Troma
@@ -8121,7 +8114,6 @@
 1531266 Comuni_del_distretto_di_Prahova
 1531371 Comitati_nazionali_della_Croce_Rossa
 1531636 Teologi_arabi
-1531667 Attivisti_argentini
 1531711 Sindaci_di_Venezia
 1532066 Festival_OTI
 1532216 Politici_italiani_del_XII_secolo
@@ -8226,6 +8218,7 @@
 1542141 Filosofi_del_XIX_secolo
 1542160 Pittori_del_XVIII_secolo
 1542165 Scrittori_del_XVIII_secolo
+1542169 Filosofi_del_XVIII_secolo
 1542183 Politici_del_XVIII_secolo
 1542709 Librogame_di_Lupo_Solitario
 1542722 Videogiochi_di_ruolo_alla_giapponese
@@ -9231,7 +9224,6 @@
 1775512 Arpadi
 1775628 Sovrani_di_antichi_Stati_britannici
 1776286 Microregioni_del_Rio_Grande_do_Sul
-1776792 Cantautori_giapponesi
 1777159 Singoli_di_Gigi_D'Alessio
 1777276 Popolazione_romaní
 1777750 Portali_sugli_sport
@@ -10208,7 +10200,7 @@
 1949883 Cestisti_del_Real_Madrid_Baloncesto
 1949886 Cestisti_del_Saski_Baskonia
 1949888 Cestisti_del_Veroli_Basket
-1949892 Cestisti_dell'Andrea_Costa_Imola
+1949892 Cestisti_dell'A._Costa_Imola_2022
 1949894 Cestisti_dell'Aurora_Basket_Jesi
 1949895 Cestisti_dell'Aurora_Desio
 1949896 Cestisti_dell'Auxilium_Pallacanestro_Torino
@@ -12304,6 +12296,7 @@
 2117965 Morti_nel_1248
 2117966 Morti_nel_1249
 2117968 Morti_nel_1250
+2117972 Morti_nel_1253
 2117975 Morti_nel_1256
 2117977 Morti_nel_1258
 2117980 Morti_nel_1260
@@ -13374,6 +13367,7 @@
 2198792 Calciatori_del_Como_1907
 2198797 Calciatori_del_Palermo_F.C.
 2198850 Vincitori_di_medaglia_d'oro_olimpica_per_la_Germania
+2198860 Attivisti_israeliani
 2198863 Partigiani_polacchi
 2199028 Calciatori_dell'U.S._Alessandria_Calcio_1912
 2199042 Allenatori_dell'U.S._Alessandria_Calcio_1912
@@ -13450,6 +13444,7 @@
 2204632 Allenatori_del_Santos_F.C.
 2204634 Allenatori_della_S.E._Palmeiras
 2205207 Allenatori_dell'A.C._Milan
+2205208 A.C._Milan
 2205209 Calciatori_dell'A.C._Milan
 2205212 Dirigenti_dell'A.C._Milan
 2205311 Wikipedia_Bar_-_febbraio_2009
@@ -13478,7 +13473,7 @@
 2208521 Musei_della_provincia_dell'Aquila
 2208973 Musei_della_provincia_di_Ancona
 2209033 Stagioni_del_F.C._Internazionale_Milano
-2209134 Allenatori_della_S.S._Lazio
+2209134 Allenatori_della_S.S._Lazio_(calcio)
 2209151 Calciatori_della_S.S._Lazio
 2209153 Dirigenti_della_S.S._Lazio
 2209183 Stagioni_della_S.S._Lazio
@@ -13674,7 +13669,7 @@
 2227925 Calciatori_del_Calcio_Lecco_1912
 2228092 Personaggi_de_I_Cavalieri_dello_zodiaco
 2228266 Venezuela_ai_Giochi_olimpici
-2228343 Template_di_navigazione_-_formazioni_di_pallavolo_femminile_ai_Giochi_olimpici
+2228343 Template_di_navigazione_-_convocate_di_pallavolo_ai_Giochi_olimpici
 2228365 Template_di_navigazione_-_convocati_della_Nazionale_di_pallavolo_della_Polonia
 2228640 Comuni_del_Tennessee
 2228645 Census-designated_place_del_Tennessee
@@ -14613,6 +14608,7 @@
 2350248 Arterie_dell'addome
 2350398 Vincitori_di_medaglia_d'argento_olimpica_per_il_Belgio
 2350400 Vincitori_di_medaglia_d'argento_olimpica_per_la_Bielorussia
+2350407 Vincitori_di_medaglia_d'argento_olimpica_per_la_Turchia
 2351025 Calciatori_della_C.D.C._Atlético_Nacional
 2351040 Allenatori_della_C.D.C._Atlético_Nacional
 2351568 Wikipedia_Bar_-_maggio_2009
@@ -14882,6 +14878,7 @@
 2393436 Laghi_delle_Alpi_Lepontine
 2393741 Terminologia_della_politica
 2395022 Gruppi_musicali_j-rock
+2395076 Template_stemmini_squadre_di_pallacanestro_slovacche
 2395145 Stagioni_dei_Washington_Wizards
 2395146 Stagioni_dei_Philadelphia_76ers
 2395150 Stagioni_dei_Miami_Heat
@@ -14896,10 +14893,12 @@
 2397377 Allenatori_del_Santa_Cruz_F.C.
 2397397 Bond_girl
 2397467 Calciatori_del_K.V._Mechelen
+2397519 Allenatori_del_K.V._Mechelen
 2397685 Personaggi_dei_fumetti_Disney
 2397686 Personaggi_delle_serie_televisive_d'animazione_Disney
 2397692 Personaggi_dei_cortometraggi_d'animazione_Disney
 2397770 Occhio
+2397937 Cultura_del_Messico
 2398064 Calciatori_dell'A.D._Santos_de_Guápiles
 2398092 Calciatori_del_M.F.K._Košice
 2398217 Canzoni_popolari_britanniche
@@ -15003,6 +15002,7 @@
 2422225 Analisi_di_regressione
 2422243 Pallavolisti_sudcoreani
 2422292 Analisi_delle_serie_storiche
+2422324 Template_di_navigazione_-_formazioni_al_Montreux_Volley_Masters_di_pallavolo_femminile
 2422361 Parigi-Nizza
 2422497 Comuni_dello_stato_di_New_York
 2422614 Inferenza_statistica
@@ -16141,6 +16141,7 @@
 2579790 Dipinti_di_Pierre-Auguste_Renoir
 2579828 Template_stemmini_squadre_di_hockey_su_ghiaccio_tedesche
 2579830 Dipinti_di_Paul_Cézanne
+2579856 Dipinti_di_Gustav_Klimt
 2579884 Dipinti_di_Georges_Seurat
 2579894 Francesco_d'Assisi
 2579901 Dipinti_di_Vincent_van_Gogh
@@ -16375,6 +16376,7 @@
 2617862 Filovie_dismesse_in_Italia
 2618915 Isole_dell'Alaska
 2619895 Squadre_tedesche_di_football_americano
+2620241 Bolivia_ai_Giochi_olimpici
 2620855 Singoli_di_Drake
 2620881 Calciatori_dell'Al-Ain_S.C.C.
 2620885 Allenatori_dell'Al-Ain_S.C.C.
@@ -16479,6 +16481,7 @@
 2642016 Prima_guerra_d'indipendenza_italiana
 2642176 Template_di_navigazione_-_archeologia
 2642673 Biblioteche_comunali
+2642689 Rapper_finlandesi
 2643483 Allenatori_del_Dundee_United_F.C.
 2643587 Studenti_del_Politecnico_di_Torino
 2643682 Dipartimenti_della_provincia_di_Corrientes
@@ -16583,7 +16586,6 @@
 2662902 Calciatori_del_C.E._Sabadell_F.C.
 2662903 Allenatori_del_C.E._Sabadell_F.C.
 2663020 Calciatori_della_S.D._Huesca
-2663021 Allenatori_della_S.D._Huesca
 2663033 Calciatori_dello_Xerez_C.D.
 2663264 Hopman_Cup
 2663545 Diritto_processuale_civile_italiano
@@ -17396,6 +17398,7 @@
 2810084 Ciclisti_su_strada_australiani
 2810085 Ciclisti_su_strada_svizzeri
 2810086 Pistard_svizzeri
+2810092 Ciclisti_su_strada_belgi
 2810094 Ciclisti_su_strada_russi
 2810096 Pistard_russi
 2810098 Ciclisti_su_strada_cechi
@@ -18075,6 +18078,7 @@
 2964679 Gruppi_musicali_k-pop
 2965114 Squadre_di_Fed_Cup
 2966578 Montagne_della_provincia_di_Savona
+2966624 Montagne_della_provincia_di_Piacenza
 2966643 Storia_della_California
 2966678 Montagne_della_provincia_di_Brescia
 2966688 Montagne_della_provincia_di_Sondrio
@@ -18841,6 +18845,7 @@
 3135728 Calciatori_della_Nazionale_ecuadoriana
 3135832 Siepisti_statunitensi
 3135834 Mezzofondisti_statunitensi
+3135965 Singoli_di_Bruno_Mars
 3136477 Gruppi_musicali_pop_barocco
 3136934 Politici_statunitensi_del_XXI_secolo
 3136936 Politici_statunitensi_del_XX_secolo
@@ -19606,6 +19611,7 @@
 3269208 Allenatori_del_C.A._Talleres
 3269214 Calciatori_dell'Arsenal_F.C._(Sarandí)
 3269229 Calciatori_dello_Jeonbuk_Hyundai_Motors_F.C.
+3269246 Calciatori_dello_Shabab_Al-Ahli_Dubai_F.C.
 3269250 Allenatori_dello_Shabab_Al-Ahli_Dubai_F.C.
 3269413 Dipinti_del_Moretto
 3269957 Cantoni_dell'Ecuador
@@ -19758,7 +19764,6 @@
 3292578 Film_di_Frankenstein
 3292701 ATP_Tour_1995
 3293095 Conflitto_nordirlandese
-3293290 Musei_archeologici_della_Grecia
 3293366 Calciatori_della_Nazionale_martinicana
 3293383 Hockeisti_su_ghiaccio_dei_Chicago_Blackhawks
 3293407 Hockeisti_su_ghiaccio_dei_Nashville_Predators
@@ -19793,6 +19798,7 @@
 3297723 Amarna
 3297952 Liste_di_utilizzatori_per_modello_di_aereo
 3298656 Incisori_del_secolo_d'oro_olandese
+3298923 Film_ambientati_a_Verona
 3299052 Template_per_le_discussioni
 3299584 Calciatori_del_Raufoss_Fotball
 3299722 Attori_bambini_svedesi
@@ -19801,6 +19807,7 @@
 3301423 Cucina_inglese
 3301641 Università_pontificie
 3302949 Stagioni_dell'Olympique_de_Marseille
+3302960 Stagioni_dell'Everton_F.C.
 3303145 Artiglierie_di_calibro_da_45_mm_a_63_mm
 3303153 Artiglierie_di_calibro_da_20_mm_a_40_mm
 3303209 Artiglierie_di_calibro_da_65_mm_a_85_mm
@@ -20163,7 +20170,6 @@
 3364901 Calciatori_del_Kalmar_FF
 3364909 Calciatori_del_Sanfrecce_Hiroshima
 3364910 Allenatori_del_Sanfrecce_Hiroshima
-3367018 Cantautori_pop_rap
 3367062 Vescovi_di_Pavia
 3367881 Architetture_barocche_di_Napoli
 3368123 Architetture_barocche_di_Lecce
@@ -21150,7 +21156,7 @@
 3592283 Calciatori_del_Sandnes_Ulf
 3592318 Rappresentanti_statunitensi_eletti_dallo_stato_di_Washington
 3592425 Hockeisti_su_ghiaccio_dell'HC_Milano_Saima
-3592479 Hockeisti_su_ghiaccio_dell'H.C._Fassa
+3592479 Hockeisti_su_ghiaccio_dell'H.C._Fassa_Falcons
 3592577 Zucchero
 3592743 Cestiste_del_CUS_Cagliari_Pallacanestro
 3592928 Hockeisti_su_ghiaccio_dell'Ice_Hockey_Aquile_FVG
@@ -21623,6 +21629,7 @@
 3708861 Film_Toho
 3709036 Personal_computer_della_Olivetti
 3709039 Macchine_per_scrivere_della_Olivetti
+3709159 Malattie_dell'esofago
 3709199 Aziende_tedesche_di_videogiochi
 3709229 Campionati_mondiali_di_ginnastica_artistica
 3709246 Incidenti_e_disastri_aerei_causati_da_dirottamento
@@ -21955,6 +21962,7 @@
 3751658 Taxa_classificati_da_Jörg_Wunderlich
 3751779 Film_thriller_psicologici
 3752134 Tour_du_Haut-Var
+3752699 Pallacanestro_nel_1948
 3752700 Pallacanestro_nel_1949
 3752701 Pallacanestro_nel_1950
 3752702 Pallacanestro_nel_1951
@@ -22325,7 +22333,7 @@
 3775895 Tour_musicali_del_2010
 3775896 Tour_musicali_del_2011
 3776326 Calciatori_del_F.K._Sibir'
-3776738 Template_di_navigazione_-_formazioni_di_pallavolo_maschile_ai_Giochi_olimpici
+3776738 Template_di_navigazione_-_convocati_di_pallavolo_ai_Giochi_olimpici
 3776914 Calciatori_del_Giravanz_Kitakyushu
 3777453 Stagioni_delle_squadre_di_calcio_campioni_del_Giappone
 3777793 Tradizioni_mariane_locali
@@ -22372,6 +22380,7 @@
 3786540 Film_di_Tarzan
 3786562 Allenatori_del_F.C._Spartak_Trnava
 3786564 Calciatori_del_F.C._Spartak_Trnava
+3786590 Film_di_Robin_Hood
 3787930 Film_ambientati_a_Firenze
 3788176 Patriarchi_greco-ortodossi_di_Alessandria
 3788351 Architetture_di_Marcello_Piacentini
@@ -22426,7 +22435,7 @@
 3800103 Cicli_di_vetrate_della_Francia
 3800561 Calciatori_dell'Espérance_Sportive_de_Tunis
 3800655 Template_di_navigazione_-_campionati_del_mondo_di_ciclismo_su_pista
-3801063 Calciatori_del_Giorgione_Calcio
+3801063 Calciatori_del_Giorgione_1911
 3801122 Omloop_Het_Nieuwsblad
 3802459 Hel_van_het_Mergelland
 3802658 Sultanati
@@ -24394,7 +24403,6 @@
 3983124 Grande_école
 3983133 Nati_a_Leeds
 3983186 Nati_a_Locri
-3983209 Nati_a_Corigliano_Calabro
 3983423 Nati_a_Nottingham
 3983478 Nati_a_Sorocaba
 3983597 Nati_a_Vico_Equense
@@ -24495,7 +24503,7 @@
 3990271 Schermidori_del_G.S._Fiamme_Oro
 3990275 Morti_a_Gaeta
 3990418 Template_di_navigazione_-_classi_navali_del_Giappone
-3990475 Rugbisti_a_15_della_Rugby_Roma_Olimpic_Club_1930
+3990475 Rugbisti_a_15_della_Rugby_Roma_O.C._1930
 3990553 Morti_a_Sanremo
 3990606 Gruppi_di_minerali
 3990706 Nati_ad_Albenga
@@ -24577,8 +24585,8 @@
 3997010 Rugbisti_a_15_dell'Amatori_Catania_Rugby
 3997165 Template_di_navigazione_-_opere_letterarie
 3997206 Rugbisti_a_15_del_Rugby_Calvisano
-3997682 Rugbisti_a_15_del_Rugby_Club_I_Cavalieri
-3997752 Calciatori_della_Deportes_Tolima
+3997682 Rugbisti_a_15_del_R.C._I_Cavalieri
+3997752 Calciatori_del_C.D._Tolima
 3997998 Nati_a_Bormio
 3998064 Nati_a_Buffalo
 3998067 Morti_a_Buffalo
@@ -24593,6 +24601,7 @@
 3998738 Attori_teatrali_australiani
 3998747 Attori_televisivi_australiani
 3998958 Progetto_Wikilibri
+3999118 Morti_ad_Alba_(comune_italiano)
 3999219 Orchestre_da_ballo
 3999508 Rugbisti_a_15_del_Petrarca_Rugby
 3999525 Austriaci_del_XVIII_secolo
@@ -24603,6 +24612,7 @@
 3999963 Rugbisti_a_15_del_GranDucato_Parma_Rugby
 3999968 Giro_di_Romagna
 3999989 Nati_a_Novellara
+4000026 Nati_a_Molinella
 4000091 Rugbisti_a_15_del_Rugby_Rovigo_Delta
 4000150 Rugbisti_a_15_del_Veneziamestre_Rugby
 4000157 Vescovi_di_Metz
@@ -25505,6 +25515,7 @@
 4109589 Composizioni_di_Antonio_Vivaldi
 4109732 Nati_a_Jerez_de_la_Frontera
 4109973 Software_in_Assembly
+4110038 Desktop_environment_liberi
 4110122 Nati_a_Sabadell
 4110187 Vescovi_di_Rimini
 4110289 Nati_a_Bagno_a_Ripoli
@@ -26072,6 +26083,8 @@
 4195703 Pallavoliste_del_Praia_Clube
 4195731 Calciatori_del_1461_Trabzon
 4195845 Dispositivi_Windows_Phone
+4195877 Database_management_system
+4195878 Database_management_system_liberi
 4196122 Oratori_del_Canton_Ticino
 4196214 Film_muti_di_Stanlio_e_Ollio
 4196264 Morti_viventi_nelle_opere_di_fantasia
@@ -26126,6 +26139,7 @@
 4198757 Cestisti_del_Karşıyaka_S.K.
 4198773 Cestisti_del_Kepez_Belediyesi_S.K.
 4198776 Cestisti_del_Tofaş_S.K.
+4199143 Vescovi_e_arcivescovi_di_Tolosa
 4199376 Prenomi_nati_per_alterazione
 4199456 Allenatori_dei_Minnesota_Vikings
 4199677 Patriarchi_di_Antiochia_dei_Maroniti
@@ -26507,6 +26521,7 @@
 4246564 Nati_a_Kragujevac
 4246585 Nati_a_Worcester_(Massachusetts)
 4246728 Nati_a_Paraná_(Argentina)
+4246772 Nati_a_Brive-la-Gaillarde
 4246911 Stagioni_di_Detective_Conan
 4246932 Stagioni_di_Naruto
 4247210 Videoclip_diretti_da_Gaetano_Morbioli
@@ -26985,6 +27000,7 @@
 4301242 Nati_a_St._Catharines
 4301345 Partiti_euroscettici
 4301478 Calciatori_dell'Appio_Latino_Metronio_Associazione_Sportiva
+4301732 Stagioni_della_K-League
 4302040 Nati_a_Lafayette_(Indiana)
 4302265 Morti_a_Poznań
 4302444 Pallavolisti_della_Top_Volley
@@ -27590,6 +27606,7 @@
 4411017 Nati_a_Verviers
 4411025 Nati_a_Uccle
 4411027 Morti_a_Uccle
+4411346 Nati_a_Herentals
 4411573 Nati_a_Tongeren
 4411829 Incidenti_e_disastri_aerei_negli_Stati_Uniti_d'America
 4411830 Linee_della_JR_East
@@ -27795,6 +27812,7 @@
 4464591 Britannici_dell'XI_secolo
 4464601 Nati_a_Spira
 4464838 Morti_a_Eisenach
+4464990 Sollevatori_iraniani
 4465511 TMS_Entertainment
 4466349 Campionati_statunitensi_di_sci_alpino
 4466394 Papa_Francesco
@@ -28687,6 +28705,7 @@
 4664341 Atypus
 4664354 Nati_a_Erie_(Pennsylvania)
 4664516 Cestisti_dei_Long_Island_Surf
+4664951 Film_girati_in_Repubblica_Ceca
 4664955 Film_ambientati_in_Norvegia
 4664971 Film_girati_a_Torino
 4664981 Album_certificati_disco_d'oro_in_Spagna
@@ -29096,8 +29115,6 @@
 4751912 Basi_di_dati
 4751915 Basi_di_dati_bibliografiche
 4751930 Teoria_delle_basi_di_dati
-4751937 Software_per_basi_di_dati
-4751938 Software_liberi_per_basi_di_dati
 4751939 Storia_del_cristianesimo
 4752674 Template_di_navigazione_-_convocati_della_Nazionale_di_pallacanestro_delle_Isole_Vergini_Americane
 4752874 Pallavoliste_dell'Olympiakos_S.F.P.
@@ -29329,6 +29346,7 @@
 4808051 Miniserie_televisive_del_2014
 4808893 Drama_taiwanese
 4809064 Colonne_sonore_di_film
+4809835 Stazioni_ferroviarie_del_Canton_San_Gallo
 4810221 Membri_dell'Accademia_russa_delle_scienze
 4810288 Nati_a_Racibórz
 4810663 Marco_Aurelio
@@ -29665,6 +29683,7 @@
 4886318 Film_proposti_per_l'Oscar_al_miglior_film_straniero_per_nazionalità
 4886652 Film_sul_cancro
 4887559 Immagini_di_Antonio_Cabrini
+4888136 Ambasciatori_degli_Stati_Uniti_d'America_in_Italia
 4888407 Nati_a_Louisville
 4888800 Calciatori_del_F.K._Dinamo_Brjansk
 4888968 Calciatori_della_Nazionale_kosovara
@@ -29854,7 +29873,7 @@
 4925984 Nati_a_Santo_Domingo
 4926015 Morti_a_Santo_Domingo
 4926035 Fotografi_di_scena
-4926096 Calciatori_del_Club_Deportes_Iquique
+4926096 Calciatori_del_C.D._Iquique
 4926136 Film_girati_a_Palermo
 4926413 Nati_a_St._Petersburg_(Florida)
 4926414 Morti_a_St._Petersburg_(Florida)
@@ -30014,6 +30033,7 @@
 4941903 Voci_monitorate_Progetto_Neuroscienze
 4942189 Nati_a_Ulan_Bator
 4942642 Nobili_austriaci
+4942859 TemplateData
 4943632 Stagioni_della_Torres_(calcio)
 4943635 Calciatori_della_Torres_(calcio)
 4943636 Allenatori_della_Torres_(calcio)
@@ -30455,7 +30475,6 @@
 4980726 Campionati_europei_di_atletica_leggera_2014
 4981556 Giocatori_del_Kaos_Reggio_Emilia_Calcio_a_5
 4982379 Singoli_contemporary_R&B
-4982380 Brani_musicali_contemporary_R&B
 4982391 Cantanti_contemporary_R&B
 4982395 Cantautori_contemporary_R&B
 4982396 Album_contemporary_R&B
@@ -30780,8 +30799,10 @@
 5053100 Calciatrici_dell'AGSM_Verona_Calcio_Femminile
 5053226 Calciatrici_della_Nazionale_francese
 5053420 Halle-Ingooigem
+5054005 Grattacieli_di_Francoforte_sul_Meno
 5054023 Giocatori_della_A.E._Palma_Futsal
 5056231 Supercoppa_d'Albania
+5056795 Film_girati_in_Tunisia
 5057005 Nati_a_Šiauliai
 5057319 Boidae
 5057337 Viperidae
@@ -31199,6 +31220,7 @@
 5201407 Vescovi_siri
 5201609 Calciatrici_dell'Umeå_I.K.
 5202465 Trattati_bilaterali
+5202501 Trattati_commerciali
 5202660 Calciatrici_del_V.f.L._Wolfsburg
 5202729 Stagioni_del_Martina_Calcio_1947
 5202991 Nati_a_Jyväskylä
@@ -31403,7 +31425,6 @@
 5273974 Loghi_società_di_calcio_a_5_italiane
 5274072 Brani_musicali_del_2015
 5274141 Raduni_di_Wikipedia_2016
-5274174 Cestiste_dell'Hapoel_Tel_Aviv_B.C.
 5274257 Pallavoliste_dell'Olimpia_Teodora
 5274640 Codici_ATC
 5275572 Template_stemmini_squadre_di_calcio_cecoslovacche
@@ -32794,6 +32815,7 @@
 5476804 Videogiochi_distribuiti_da_GOG.com
 5476816 Template_di_navigazione_-_stagioni_calcistiche_in_Inghilterra
 5477005 Suddivisioni_antiche_della_Grecia
+5477048 Template_di_navigazione_-_stagioni_calcistiche_in_Francia
 5477050 Template_di_navigazione_-_stagioni_calcistiche_in_Italia
 5477115 Caligola
 5477230 Cantoni_dell'Aveyron_soppressi
@@ -33648,7 +33670,6 @@
 5746146 Singoli_certificati_due_volte_disco_di_diamante_in_Brasile
 5746147 Singoli_certificati_disco_di_diamante_in_Brasile
 5746154 Album_certificati_tre_volte_disco_di_platino_in_Danimarca
-5746161 Album_certificati_disco_d'oro_in_Arabia_Saudita
 5746162 Cittadini_arabi_di_Israele
 5746195 Singoli_certificati_otto_volte_disco_di_platino_in_Canada
 5746785 Problemi_NP-completi
@@ -34518,6 +34539,7 @@
 6054575 Distretti_della_provincia_del_Tôv
 6054847 Calcio_a_5_nel_2017
 6054895 Naiadi
+6055211 Architetture_neoromaniche_della_provincia_di_Parma
 6055821 Cestisti_del_Real_Betis_Sevilla
 6056417 Calciatori_dei_Kansas_City_Spurs
 6057357 Album_di_Kenny_Rogers
@@ -34907,6 +34929,7 @@
 6189206 Cestisti_del_Treveri_Basketball
 6189347 Cestisti_dei_Cologne_99ers
 6189465 Cestisti_del_B.V._Chemnitz_99
+6189785 Stagioni_del_campionato_cecoslovacco_di_pallacanestro
 6191211 Stagioni_del_campionato_polacco_di_pallacanestro
 6191337 Rosacroce
 6191426 Calciatori_del_S.K._Chikhura_Sachkhere
@@ -35499,6 +35522,7 @@
 6362087 Studenti_dell'Accademia_Albertina
 6362329 Anime_e_manga_sui_samurai
 6362387 Anime_e_manga_sui_ninja
+6362599 Anime_e_manga_a_tema_gastronomico
 6362660 Anime_e_manga_scolastici
 6363384 Anime_e_manga_ecchi
 6363578 Chiese_dedicate_ai_santi_Nazario_e_Celso
@@ -35784,6 +35808,7 @@
 6421369 Politici_del_Partito_Comunista_di_Grecia
 6421371 Senatori_del_Regno_d'Italia_nella_categoria_3
 6421374 Senatori_del_Regno_d'Italia_nella_categoria_5
+6421379 Senatori_del_Regno_d'Italia_nella_categoria_8
 6421383 Senatori_del_Regno_d'Italia_nella_categoria_12
 6421385 Senatori_del_Regno_d'Italia_nella_categoria_14
 6421396 Senatori_del_Regno_d'Italia_nella_categoria_17
@@ -35835,6 +35860,7 @@
 6437126 Partiti_comunisti_in_Nepal
 6437516 Dolci_lombardi
 6438291 Nati_a_Barreiro
+6441389 Stazioni_ferroviarie_del_Canton_Appenzello_Esterno
 6442246 Wikipedia_Bar_-_luglio_2017
 6442357 Calciatrici_dell'1._F.F.C._Turbine_Potsdam_71_II
 6442652 Collegi_elettorali_aboliti_della_Scozia
@@ -36073,7 +36099,6 @@
 6521357 Serie_televisive_per_bambini
 6521543 Programmi_televisivi_per_ragazzi
 6523018 Serie_televisive_drammatico_familiari
-6523020 Serie_televisive_erotiche
 6523022 Serie_televisive_politiche
 6523032 Film_giudiziari_per_la_televisione
 6523092 Fiction_televisive_con_tematiche_LGBT
@@ -36486,6 +36511,7 @@
 6665701 Membri_della_Sport_Australia_Hall_of_Fame
 6665937 Film_spagnoli_del_2018
 6666317 Scuola_ferrarese
+6667087 Rivoluzione_ungherese_del_1956
 6668317 Brani_musicali_natalizi
 6668341 Singoli_natalizi
 6669117 Cestisti_del_C.B._Miraflores
@@ -36548,6 +36574,7 @@
 6693503 Studenti_dell'Università_di_Syracuse
 6693710 Film_ambientati_in_Carolina_del_Nord
 6693728 Film_ambientati_in_Georgia_(Stati_Uniti_d'America)
+6693737 Film_ambientati_in_Oregon
 6694430 Raduni_di_Wikipedia_2018
 6694679 Serie_televisive_d'animazione_del_2018
 6694700 Romanzi_del_2018
@@ -36916,7 +36943,7 @@
 7232655 Studenti_dell'Università_di_Georgetown
 7240608 Nati_a_Tambov
 7252335 Dipinti_di_Enea_Salmeggia
-7256167 Cestiste_dello_Ž.K.K._Partizan
+7256202 Cestiste_dello_Ž.K.K._Partizan_1953
 7280037 Hockey_su_ghiaccio_nel_2019
 7283622 Tarsie_del_coro_di_Santa_Maria_Maggiore_di_Bergamo
 7322052 Competizioni_sportive_a_Misano_Adriatico
@@ -37096,7 +37123,7 @@
 7579842 Singoli_pop_progressivo
 7580220 Ponti_internazionali
 7580772 Calciatori_del_F.K._Mynaj
-7581616 Pallavoliste_della_Wealth_Planet_Perugia_Volley
+7581616 Pallavoliste_della_Black_Angels_Perugia_Volley
 7581714 Cestisti_dell'Afyon_Belediye_Spor_Kulübü
 7582127 Wikipedia:Cloni_sospetti_di_Xhuljanomarra09
 7582612 Calciatori_del_Rayon_Sports_F.C.
@@ -37190,6 +37217,7 @@
 7628956 Giocatori_del_R.S.C._Anderlecht_Futsal
 7629183 Template_stemmini_squadre_di_pallavolo_canadesi_universitarie_maschili
 7629203 Pallavoliste_della_VolAlto_2.0_Caserta
+7629948 Film_commedia_scolastica
 7630050 Monti_della_Regina_Maud
 7630738 Nuoto_ai_Giochi_della_XIX_Olimpiade
 7631353 Cestisti_dei_Colorado_Buffaloes
@@ -37509,7 +37537,7 @@
 7762111 Cestisti_dei_Wake_Forest_Demon_Deacons
 7762133 Cestisti_dei_Temple_Owls
 7762197 Cestisti_dei_Virginia_Cavaliers
-7762205 Cestisti_della_Nuova_Pallacanestro_Gorizia
+7762205 Cestisti_della_N.P._Gorizia
 7762217 Cestisti_della_Nuova_Pallacanestro_Vigevano_1955
 7762282 Studenti_dell'Università_degli_Studi_di_Napoli_"L'Orientale"
 7762384 Allenatori_della_Fortitudo_Pallacanestro_Bologna_103
@@ -37861,7 +37889,6 @@
 7916071 Bevande_a_base_di_erbe
 7916608 Template_di_navigazione_–_compagnie_aeree_per_stato
 7917620 Occupazioni_militari
-7918309 Economia_a_Genova
 7920647 Sepolti_nel_cimitero_Flaminio
 7921046 Calciatori_del_F.K._Septemvri
 7921271 Calciatori_del_F.K._Zemun
@@ -38381,7 +38408,6 @@
 8319921 Calcio_a_5_nel_2022
 8321007 Film_per_la_televisione_del_2020
 8321931 Chiese_della_diocesi_di_Crema
-8322803 Dissidenti_russi
 8322999 Stagione_2020-2021_delle_squadre_di_calcio
 8323001 Calcio_a_5_nel_2021
 8323700 Serie_televisive_iniziate_nel_2021
@@ -38649,6 +38675,7 @@
 8444583 Hockey_su_ghiaccio_nel_2021
 8444985 Bimestrali_italiani_del_passato
 8445222 Quindicinali_italiani_del_passato
+8445758 Musei_statali_italiani_del_Lazio
 8447448 Maschere_popolari
 8450883 Alcyonacea
 8451076 Pennatulacea
@@ -38922,6 +38949,7 @@
 8647508 Dame_dell'Ordine_dell'Amicizia
 8647516 Medaglie_della_Federazione_Russa
 8648402 National_League_(Inghilterra)
+8649646 Serie_televisive_d'animazione_giapponesi
 8650062 Cestisti_del_Merkezefendi_Belediyesi_Denizli_Basket
 8650927 Montagne_Rocciose_Canadesi
 8653670 Programma_Progress
@@ -39135,6 +39163,7 @@
 8796697 Gosei
 8796949 Poeti_statunitensi_del_XXI_secolo
 8799506 Legge_ebraica
+8800945 Membri_dell'amministrazione_Biden
 8802193 Morti_per_la_pandemia_di_COVID-19
 8802307 Pandemia_di_COVID-19_in_Europa
 8802427 Pandemia_di_COVID-19_in_Africa
@@ -39388,6 +39417,7 @@
 9013838 Chiese_dedicate_all'Assunzione_di_Maria
 9013843 Miniserie_a_fumetti_Dark_Horse_Comics
 9015101 Personalità_della_laicità
+9015544 Aviatori_tedeschi_della_seconda_guerra_mondiale
 9017207 Immagini_di_Richard_Gere
 9019292 Personalità_del_nazionalismo_spagnolo
 9019334 Drammaturghi_trattanti_tematiche_LGBT
@@ -39766,6 +39796,7 @@
 9185180 Film_basati_su_romanzi
 9185478 Cestisti_dei_Grand_Rapids_Gold
 9188125 Film_basati_su_racconti
+9188263 Film_basati_su_opere_teatrali_di_autori_francesi
 9188311 Film_basati_su_opere_teatrali_di_autori_statunitensi
 9189270 Sceneggiatori_del_XIX_secolo
 9189806 Film_basati_su_opere_letterarie_di_autori_statunitensi
@@ -40263,6 +40294,7 @@
 9330160 Generali_del_V_secolo
 9330162 Generali_del_IV_secolo
 9330163 Generali_del_III_secolo
+9330167 Generali_del_I_secolo_a.C.
 9330168 Generali_del_II_secolo_a.C.
 9330169 Generali_del_III_secolo_a.C.
 9330170 Generali_del_IV_secolo_a.C.
@@ -40384,6 +40416,7 @@
 9363262 Politici_del_Canton_Ticino
 9363283 Premio_Guldbagge_per_il_miglior_film_straniero
 9363479 Politici_del_Canton_Zurigo
+9363584 Cestisti_del_K.K._LSU-Atletas_Kaunas
 9363648 Politici_svizzeri_del_XVI_secolo
 9363649 Politici_svizzeri_del_XVII_secolo
 9363895 Politici_del_Canton_Berna
@@ -40486,7 +40519,6 @@
 9405768 Nobili_britannici_del_XIV_secolo
 9405771 Nobili_britannici_del_XIII_secolo
 9405781 Nobili_britannici_del_XII_secolo
-9406168 Sicurezza_elettrica
 9406416 Sicurezza_dei_prodotti
 9406552 GLAM/Conservatorio_Nicolini_di_Piacenza
 9406616 Controllo_degli_accessi
@@ -41103,6 +41135,7 @@
 9617603 Stagione_2004_delle_squadre_di_football_americano
 9617604 Stagione_2005_delle_squadre_di_football_americano
 9617605 Stagione_2006_delle_squadre_di_football_americano
+9617613 Template_di_navigazione_-_convocati_della_Nazionale_di_pallanuoto_dei_Paesi_Bassi
 9617851 Dirigenti_sportivi_del_XXI_secolo
 9618059 Parole_e_locuzioni_della_lingua_turca
 9619438 Slovenska_republiška_nogometna_liga
@@ -41293,6 +41326,7 @@
 9668968 Persone_della_guerra_della_triplice_alleanza
 9669347 Governatori_militari_di_Parigi
 9669386 Militari_italiani_della_seconda_guerra_mondiale
+9670060 Romanzi_del_2023
 9670472 Boemi_del_XX_secolo
 9670473 Boemi_del_XIX_secolo
 9670474 Boemi_del_XVIII_secolo
@@ -41704,6 +41738,7 @@
 9846645 Personaggi_introdotti_nel_1961
 9846646 Personaggi_introdotti_nel_1960
 9846647 Personaggi_introdotti_nel_1959
+9846649 Personaggi_introdotti_nel_1958
 9846742 Personaggi_introdotti_nel_1942
 9846744 Personaggi_introdotti_nel_1941
 9846745 Personaggi_introdotti_nel_1940
@@ -42130,6 +42165,7 @@
 9891662 Pallavolisti_statunitensi_del_XXI_secolo
 9891663 Pallavolisti_statunitensi_del_XX_secolo
 9891696 Pallavolisti_giapponesi_del_XXI_secolo
+9891697 Pallavolisti_giapponesi_del_XX_secolo
 9891920 Battaglie_che_coinvolgono_il_Califfato_omayyade
 9892012 Battaglie_che_coinvolgono_l'Impero_sasanide
 9892567 Pallavolisti_tedeschi_del_XXI_secolo
@@ -42366,6 +42402,7 @@
 9982179 Egizi_del_XXVI_secolo_a.C.
 9982182 Egizi_del_III_secolo_a.C.
 9982183 Egizi_del_II_secolo_a.C.
+9982184 Egizi_del_XV_secolo_a.C.
 9982185 Egizi_del_XIV_secolo_a.C.
 9982347 Egizi_del_XII_secolo_a.C.
 9982350 Egizi_del_XVI_secolo_a.C.
@@ -42451,6 +42488,7 @@
 10019572 Professori_dell'Università_di_Liverpool
 10019643 Nati_a_Harrow
 10023026 Nuoto_ai_XIX_Giochi_asiatici
+10023585 Atletica_leggera_ai_XVII_Giochi_paralimpici_estivi
 10023754 Film_diretti_da_Anatole_Litvak
 10024397 Film_diretti_da_Hobart_Henley
 10025442 Primera_División_(Argentina)
@@ -42476,6 +42514,7 @@
 10032638 Film_diretti_da_Irving_Cummings
 10033036 Film_diretti_da_David_Butler
 10033203 Film_diretti_da_William_Worthington
+10034220 Nuoto_ai_Giochi_della_XXXIII_Olimpiade
 10034645 Film_diretti_da_Rupert_Julian
 10035546 Antisemitismo_in_Germania
 10035550 Antisemitismo_in_Francia
@@ -42543,6 +42582,7 @@
 10110809 Alpinisti_morti_in_scalata
 10110843 Calciatori_morti_durante_l'attività
 10110871 Ciclisti_morti_in_gara
+10119258 Morti_di_personalità
 10121933 Biologi_del_XIX_secolo
 10127422 Scultori_francesi_del_XIX_secolo
 10127423 Scultori_francesi_del_XX_secolo
@@ -42613,7 +42653,6 @@
 10168428 Atletica_leggera_maschile_ai_Giochi_della_XXXIII_Olimpiade
 10169131 Presbiteri_italiani_del_XV_secolo
 10169999 Politici_russi_del_XVIII_secolo
-10173066 Immagini_senza_informazioni_-_luglio_2024
 10173313 Bobbisti_del_B.C._Cortina
 10174296 Wikipedia:Cloni_sospetti_di_Greparty
 10175446 Minerali_dello_zirconio
@@ -42705,4 +42744,18 @@
 10186321 Film_diretti_da_Oscar_Eagle
 10189466 Sepolti_nella_Concattedrale_di_San_Giovanni
 10192605 Calciatori_lituani_del_XX_secolo
+10193726 Direttori_d'orchestra_russi_del_XX_secolo
+10193931 Calciatori_libici_del_XXI_secolo
 10196054 Scrittori_argentini_del_XX_secolo
+10196480 Scrittori_danesi_del_XX_secolo
+10197329 Giornalisti_argentini_del_XX_secolo
+10199522 Cantautori_giapponesi_del_XXI_secolo
+10200310 Scrittori_danesi_del_XXI_secolo
+10200311 Scrittori_danesi_del_XIX_secolo
+10200385 Immagini_senza_informazioni_-_agosto_2024
+10208230 Stagioni_di_Doctor_Who_(serie_televisiva_1963)
+10209727 Calciatori_del_Keçiörengücü_S.K.
+10210092 Allenatori_della_S.S._Lazio
+10210297 Calciatori_del_Ümraniyespor_S.K.
+10211578 Calciatori_dell'A.S._Othellos_Athīainou
+10211836 Persone_della_guerra_civile_in_Somalia

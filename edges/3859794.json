@@ -1,1 +1,1 @@
-{"name": "Bersaglieri", "id": 3859794, "predecessors": [{"name": "Arma_di_fanteria", "id": 3405136}, {"name": "Esercito_Sabaudo", "id": 221092}, {"name": "Esercito_italiano", "id": 68100}, {"name": "Regio_Esercito", "id": 2073250}], "successors": [{"name": "Persone_legate_ai_bersaglieri", "id": 4877311}]}
+{"name": "Bersaglieri", "id": 3859794, "predecessors": [{"name": "Arma_di_fanteria", "id": 3405136}, {"name": "Esercito_italiano", "id": 68100}, {"name": "Regio_Esercito", "id": 2073250}], "successors": [{"name": "Persone_legate_ai_bersaglieri", "id": 4877311}]}

@@ -1,1 +1,1 @@
-{"name": "Videogiochi_per_telefono_cellulare", "id": 1973371, "predecessors": [{"name": "Telefonia_mobile", "id": 52883}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "Videogiochi_per_N-Gage", "id": 267630}]}
+{"name": "Videogiochi_per_telefono_cellulare", "id": 1973371, "predecessors": [{"name": "Telefonia_mobile", "id": 52883}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Videogiochi_per_N-Gage", "id": 267630}]}

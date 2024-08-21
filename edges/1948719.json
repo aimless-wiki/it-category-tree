@@ -1,1 +1,1 @@
-{"name": "Farmaci_ormonali", "id": 1948719, "predecessors": [{"name": "Ormoni", "id": 217454}], "successors": []}
+{"name": "Farmaci_ormonali", "id": 1948719, "predecessors": [{"name": "Ormoni", "id": 217454}, {"name": "Farmaci", "id": 86611}], "successors": []}

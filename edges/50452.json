@@ -1,1 +1,1 @@
-{"name": "Portatili_Apple", "id": 50452, "predecessors": [{"name": "Computer_Apple", "id": 46282}, {"name": "Computer_portatili", "id": 1040559}], "successors": []}
+{"name": "Portatili_Apple", "id": 50452, "predecessors": [{"name": "Computer_Apple", "id": 46282}, {"name": "Dispositivi_elettronici", "id": 1053982}], "successors": []}

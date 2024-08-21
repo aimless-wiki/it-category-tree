@@ -1,1 +1,1 @@
-{"name": "Musei_statali_italiani", "id": 3872070, "predecessors": [{"name": "Beni_culturali", "id": 338875}], "successors": [{"name": "Scavi_archeologici_di_Pompei", "id": 3597845}]}
+{"name": "Musei_statali_italiani", "id": 3872070, "predecessors": [{"name": "Beni_culturali", "id": 338875}], "successors": [{"name": "Musei_statali_italiani_del_Lazio", "id": 8445758}, {"name": "Scavi_archeologici_di_Pompei", "id": 3597845}]}

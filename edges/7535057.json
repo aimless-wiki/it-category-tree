@@ -1,1 +1,1 @@
-{"name": "Patristica", "id": 7535057, "predecessors": [{"name": "Padri_della_Chiesa", "id": 4112332}, {"name": "Teologia", "id": 66022}], "successors": []}
+{"name": "Patristica", "id": 7535057, "predecessors": [{"name": "Teologia", "id": 66022}], "successors": [{"name": "Padri_della_Chiesa", "id": 4112332}]}

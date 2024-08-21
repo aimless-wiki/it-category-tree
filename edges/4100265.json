@@ -1,1 +1,1 @@
-{"name": "Software_in_Java", "id": 4100265, "predecessors": [{"name": "Java", "id": 106864}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "Software_libero_in_Java", "id": 6230228}]}
+{"name": "Software_in_Java", "id": 4100265, "predecessors": [{"name": "Java", "id": 106864}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Software_libero_in_Java", "id": 6230228}]}

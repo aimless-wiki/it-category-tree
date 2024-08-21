@@ -1,1 +1,1 @@
-{"name": "Motori_di_ricerca", "id": 330014, "predecessors": [{"name": "Servizi_di_rete", "id": 1063379}, {"name": "Siti_web", "id": 1941822}, {"name": "Informatica", "id": 24695}], "successors": [{"name": "Google", "id": 593208}, {"name": "Yahoo!", "id": 1062702}]}
+{"name": "Motori_di_ricerca", "id": 330014, "predecessors": [{"name": "Servizi_di_rete", "id": 1063379}, {"name": "Siti_web", "id": 1941822}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Google", "id": 593208}, {"name": "Yahoo!", "id": 1062702}]}

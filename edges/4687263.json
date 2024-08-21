@@ -1,1 +1,1 @@
-{"name": "Videogiochi_arcade", "id": 4687263, "predecessors": [{"name": "Informatica", "id": 24695}], "successors": [{"name": "Videogiochi_per_Neo_Geo", "id": 268126}, {"name": "Videogiochi_per_PlayChoice-10", "id": 4920558}]}
+{"name": "Videogiochi_arcade", "id": 4687263, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Tipi_di_architetture", "id": 3111902}], "successors": [{"name": "Videogiochi_per_Neo_Geo", "id": 268126}, {"name": "Videogiochi_per_PlayChoice-10", "id": 4920558}]}

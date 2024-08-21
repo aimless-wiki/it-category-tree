@@ -1,1 +1,1 @@
-{"name": "Supercomputer", "id": 274192, "predecessors": [{"name": "Informatica", "id": 24695}], "successors": [{"name": "Supercomputer_Cray", "id": 5455677}]}
+{"name": "Supercomputer", "id": 274192, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Supercomputer_Cray", "id": 5455677}]}
