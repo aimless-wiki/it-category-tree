@@ -1,1 +1,1 @@
-{"name": "Biscotti", "id": 602745, "predecessors": [{"name": "Oggetti", "id": 75212}], "successors": [{"name": "Biscotti_italiani_tradizionali", "id": 602747}]}
+{"name": "Biscotti", "id": 602745, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Biscotti_italiani_tradizionali", "id": 602747}]}

@@ -1,1 +1,1 @@
-{"name": "Dolci_a_base_di_uova", "id": 7935032, "predecessors": [{"name": "Piatti_a_base_di_uova", "id": 7621248}, {"name": "Oggetti", "id": 75212}], "successors": []}
+{"name": "Dolci_a_base_di_uova", "id": 7935032, "predecessors": [{"name": "Piatti_a_base_di_uova", "id": 7621248}, {"name": "Pasti", "id": 1180758}], "successors": []}

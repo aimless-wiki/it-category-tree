@@ -1,1 +1,1 @@
-{"name": "Dolci_a_base_di_bevande_alcoliche", "id": 7934793, "predecessors": [{"name": "Bevande_alcoliche", "id": 70750}, {"name": "Oggetti", "id": 75212}], "successors": []}
+{"name": "Dolci_a_base_di_bevande_alcoliche", "id": 7934793, "predecessors": [{"name": "Bevande_alcoliche", "id": 70750}, {"name": "Pasti", "id": 1180758}], "successors": []}

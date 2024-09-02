@@ -1,1 +1,1 @@
-{"name": "Cocktail_a_base_di_vodka", "id": 7751221, "predecessors": [{"name": "Bevande_alcoliche", "id": 70750}, {"name": "Oggetti", "id": 75212}], "successors": []}
+{"name": "Cocktail_a_base_di_vodka", "id": 7751221, "predecessors": [{"name": "Bevande_alcoliche", "id": 70750}, {"name": "Categorie", "id": 41474}], "successors": []}

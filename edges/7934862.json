@@ -1,1 +1,1 @@
-{"name": "Dolci_a_base_di_cioccolato", "id": 7934862, "predecessors": [{"name": "Oggetti", "id": 75212}], "successors": [{"name": "Torte_al_cioccolato", "id": 9453862}]}
+{"name": "Dolci_a_base_di_cioccolato", "id": 7934862, "predecessors": [{"name": "Categorie", "id": 41474}, {"name": "Pasti", "id": 1180758}], "successors": [{"name": "Torte_al_cioccolato", "id": 9453862}]}

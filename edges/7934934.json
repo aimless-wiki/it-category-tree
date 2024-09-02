@@ -1,1 +1,1 @@
-{"name": "Dolci_a_base_di_prodotti_caseari", "id": 7934934, "predecessors": [{"name": "Pasti", "id": 1180758}, {"name": "Oggetti", "id": 75212}], "successors": [{"name": "Dolci_a_base_di_latte", "id": 7934933}, {"name": "Dolci_a_base_di_burro", "id": 7934999}]}
+{"name": "Dolci_a_base_di_prodotti_caseari", "id": 7934934, "predecessors": [{"name": "Pasti", "id": 1180758}], "successors": [{"name": "Dolci_a_base_di_latte", "id": 7934933}, {"name": "Dolci_a_base_di_burro", "id": 7934999}]}

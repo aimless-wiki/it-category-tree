@@ -1,1 +1,1 @@
-{"name": "Zucchero", "id": 3592577, "predecessors": [{"name": "Chimica_degli_alimenti", "id": 2096963}, {"name": "Dolcificanti_e_affini", "id": 630309}, {"name": "Oggetti", "id": 75212}, {"name": "Carboidrati", "id": 86925}], "successors": []}
+{"name": "Zucchero", "id": 3592577, "predecessors": [{"name": "Chimica_degli_alimenti", "id": 2096963}, {"name": "Dolcificanti_e_affini", "id": 630309}, {"name": "Carboidrati", "id": 86925}, {"name": "Categorie", "id": 41474}], "successors": []}

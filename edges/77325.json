@@ -1,1 +1,1 @@
-{"name": "Salse", "id": 77325, "predecessors": [{"name": "Ingredienti_di_cucina", "id": 603187}, {"name": "Oggetti", "id": 75212}], "successors": []}
+{"name": "Salse", "id": 77325, "predecessors": [{"name": "Ingredienti_di_cucina", "id": 603187}, {"name": "Categorie", "id": 41474}], "successors": []}

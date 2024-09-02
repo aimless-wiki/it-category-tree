@@ -1,1 +1,1 @@
-{"name": "Videogiochi_basati_su_serie_televisive", "id": 4530964, "predecessors": [{"name": "Giochi", "id": 55352}, {"name": "Generi_televisivi", "id": 1214676}], "successors": [{"name": "Videogiochi_basati_su_serie_televisive_d'animazione", "id": 4566831}]}
+{"name": "Videogiochi_basati_su_serie_televisive", "id": 4530964, "predecessors": [{"name": "Generi_televisivi", "id": 1214676}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Videogiochi_basati_su_serie_televisive_d'animazione", "id": 4566831}]}

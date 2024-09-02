@@ -1,1 +1,1 @@
-{"name": "Bevande_a_base_di_erbe", "id": 7916071, "predecessors": [{"name": "Oggetti", "id": 75212}], "successors": [{"name": "Tè", "id": 623437}]}
+{"name": "Bevande_a_base_di_erbe", "id": 7916071, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Tè", "id": 623437}]}

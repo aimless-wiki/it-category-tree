@@ -1,1 +1,1 @@
-{"name": "Piatti_a_base_di_frattaglie", "id": 7905685, "predecessors": [{"name": "Piatti_a_base_di_carne", "id": 7651008}, {"name": "Oggetti", "id": 75212}], "successors": []}
+{"name": "Piatti_a_base_di_frattaglie", "id": 7905685, "predecessors": [{"name": "Piatti_a_base_di_carne", "id": 7651008}, {"name": "Categorie", "id": 41474}], "successors": []}

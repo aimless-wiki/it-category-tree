@@ -1,1 +1,1 @@
-{"name": "Alimenti_con_proprietà_antiossidanti", "id": 639205, "predecessors": [{"name": "Chimica_degli_alimenti", "id": 2096963}, {"name": "Oggetti", "id": 75212}], "successors": [{"name": "Piatti_a_base_di_pomodori", "id": 7900160}]}
+{"name": "Alimenti_con_proprietà_antiossidanti", "id": 639205, "predecessors": [{"name": "Chimica_degli_alimenti", "id": 2096963}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Piatti_a_base_di_pomodori", "id": 7900160}]}

@@ -1,1 +1,1 @@
-{"name": "MMO", "id": 1068045, "predecessors": [{"name": "Giochi_online", "id": 443254}, {"name": "Giochi", "id": 55352}], "successors": [{"name": "MMORPG", "id": 346683}]}
+{"name": "MMO", "id": 1068045, "predecessors": [{"name": "Giochi_online", "id": 443254}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "MMORPG", "id": 346683}]}

@@ -1,1 +1,1 @@
-{"name": "Caffè", "id": 624750, "predecessors": [{"name": "Alcaloidi", "id": 237487}, {"name": "Oggetti", "id": 75212}], "successors": [{"name": "Bevande_a_base_di_caffè", "id": 7915853}]}
+{"name": "Caffè", "id": 624750, "predecessors": [{"name": "Alcaloidi", "id": 237487}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Bevande_a_base_di_caffè", "id": 7915853}]}

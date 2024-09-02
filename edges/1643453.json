@@ -1,1 +1,1 @@
-{"name": "Guardie_costiere", "id": 1643453, "predecessors": [{"name": "Nautica", "id": 54399}, {"name": "Categorie", "id": 41474}, {"name": "Geomorfologia", "id": 785776}], "successors": [{"name": "Capitanerie_di_porto_-_Guardia_Costiera", "id": 1438235}]}
+{"name": "Guardie_costiere", "id": 1643453, "predecessors": [{"name": "Fortificazioni_e_difesa_delle_coste", "id": 5811039}, {"name": "Nautica", "id": 54399}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Capitanerie_di_porto_-_Guardia_Costiera", "id": 1438235}]}

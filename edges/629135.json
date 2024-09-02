@@ -1,1 +1,1 @@
-{"name": "Legumi_e_derivati", "id": 629135, "predecessors": [{"name": "Agricoltura", "id": 56318}, {"name": "Oggetti", "id": 75212}], "successors": [{"name": "Piatti_a_base_di_fagioli", "id": 7900382}]}
+{"name": "Legumi_e_derivati", "id": 629135, "predecessors": [{"name": "Agricoltura", "id": 56318}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Piatti_a_base_di_fagioli", "id": 7900382}]}

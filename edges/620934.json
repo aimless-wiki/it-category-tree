@@ -1,1 +1,1 @@
-{"name": "Giochi_da_bambini", "id": 620934, "predecessors": [{"name": "Giochi", "id": 55352}, {"name": "Infanzia", "id": 473744}], "successors": [{"name": "Filastrocche", "id": 1601879}]}
+{"name": "Giochi_da_bambini", "id": 620934, "predecessors": [{"name": "Infanzia", "id": 473744}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Filastrocche", "id": 1601879}]}
