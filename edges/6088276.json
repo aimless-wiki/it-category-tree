@@ -1,1 +1,1 @@
-{"name": "Sincronetti_ucraini", "id": 6088276, "predecessors": [{"name": "Nuotatori_ucraini", "id": 847404}, {"name": "Acqua", "id": 1445690}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Nuotatori_artistici_ucraini", "id": 6088276, "predecessors": [{"name": "Nuotatori_ucraini", "id": 847404}, {"name": "Categorie", "id": 41474}, {"name": "Acqua", "id": 1445690}], "successors": []}

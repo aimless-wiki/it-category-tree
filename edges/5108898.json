@@ -1,1 +1,1 @@
-{"name": "Film_girati_in_California", "id": 5108898, "predecessors": [{"name": "Film_girati_negli_Stati_Uniti_d'America", "id": 4637022}, {"name": "Geografia", "id": 24992}], "successors": [{"name": "Film_girati_a_Los_Angeles", "id": 9000723}]}
+{"name": "Film_girati_in_California", "id": 5108898, "predecessors": [{"name": "California", "id": 413579}, {"name": "Film_girati_negli_Stati_Uniti_d'America", "id": 4637022}], "successors": [{"name": "Film_girati_a_Los_Angeles", "id": 9000723}]}

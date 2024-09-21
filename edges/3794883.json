@@ -1,1 +1,1 @@
-{"name": "Cellulari_Nokia_serie_Lumia", "id": 3794883, "predecessors": [{"name": "Smartphone", "id": 3660410}, {"name": "Cellulari_Nokia", "id": 1061368}, {"name": "Cellulari_Nokia_serie_Lumia", "id": 3794883}], "successors": [{"name": "Cellulari_Nokia_serie_Lumia", "id": 3794883}]}
+{"name": "Cellulari_Nokia_serie_Lumia", "id": 3794883, "predecessors": [{"name": "Dispositivi_Windows_Phone", "id": 4195845}, {"name": "Cellulari_Nokia", "id": 1061368}], "successors": []}

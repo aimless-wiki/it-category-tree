@@ -1,1 +1,1 @@
-{"name": "Dolci_a_base_di_frutta", "id": 7934893, "predecessors": [{"name": "Frutta", "id": 630368}, {"name": "Pasti", "id": 1180758}], "successors": [{"name": "Dolci_a_base_di_frutta_candita", "id": 7950501}, {"name": "Dolci_a_base_di_uva_passa", "id": 7953926}]}
+{"name": "Dolci_a_base_di_frutta", "id": 7934893, "predecessors": [{"name": "Frutta", "id": 630368}, {"name": "Pasti", "id": 1180758}], "successors": [{"name": "Dolci_a_base_di_frutta_candita", "id": 7950501}, {"name": "Torte_alla_frutta", "id": 10234589}, {"name": "Dolci_a_base_di_uva_passa", "id": 7953926}]}

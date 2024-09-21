@@ -1,1 +1,1 @@
-{"name": "Dispositivi_Windows_Phone", "id": 4195845, "predecessors": [{"name": "Smartphone", "id": 3660410}, {"name": "Microsoft_Windows", "id": 27379}], "successors": []}
+{"name": "Dispositivi_Windows_Phone", "id": 4195845, "predecessors": [{"name": "Microsoft_Windows", "id": 27379}, {"name": "Smartphone", "id": 3660410}], "successors": [{"name": "Cellulari_Nokia_serie_Lumia", "id": 3794883}]}

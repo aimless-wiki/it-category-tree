@@ -1,1 +1,1 @@
-{"name": "Sincronetti_spagnoli", "id": 6088272, "predecessors": [{"name": "Nuotatori_spagnoli", "id": 901648}, {"name": "Acqua", "id": 1445690}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Nuotatori_artistici_spagnoli", "id": 6088272, "predecessors": [{"name": "Nuotatori_spagnoli", "id": 901648}, {"name": "Categorie", "id": 41474}, {"name": "Acqua", "id": 1445690}], "successors": []}
