@@ -1,1 +1,1 @@
-{"name": "Teoria_dei_sistemi", "id": 628650, "predecessors": [{"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Teoria_del_controllo", "id": 214867}, {"name": "Teoria_dei_sistemi_dinamici", "id": 2085541}, {"name": "Sistemi_di_controllo", "id": 1143302}]}
+{"name": "Teoria_dei_sistemi", "id": 628650, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Teoria_del_controllo", "id": 214867}, {"name": "Teoria_dei_sistemi_dinamici", "id": 2085541}, {"name": "Sistemi_di_controllo", "id": 1143302}]}

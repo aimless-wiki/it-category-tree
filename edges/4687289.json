@@ -1,1 +1,1 @@
-{"name": "Macchine_arcade", "id": 4687289, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}, {"name": "Meccanica", "id": 58848}], "successors": [{"name": "Schede_arcade_Namco", "id": 4903120}]}
+{"name": "Macchine_arcade", "id": 4687289, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Meccanica", "id": 58848}], "successors": [{"name": "Schede_arcade_Namco", "id": 4903120}]}

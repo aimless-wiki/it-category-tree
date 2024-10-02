@@ -1,1 +1,1 @@
-{"name": "Ponti_in_pietra", "id": 2238595, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}, {"name": "Materiali_edilizi", "id": 304872}], "successors": []}
+{"name": "Ponti_in_pietra", "id": 2238595, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Materiali_edilizi", "id": 304872}], "successors": []}

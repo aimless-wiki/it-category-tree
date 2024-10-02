@@ -1,1 +1,1 @@
-{"name": "Residenze_degli_Este", "id": 6368168, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}, {"name": "Ducato_di_Ferrara", "id": 6364845}], "successors": []}
+{"name": "Residenze_degli_Este", "id": 6368168, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Ducato_di_Ferrara", "id": 6364845}], "successors": []}

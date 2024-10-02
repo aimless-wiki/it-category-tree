@@ -1,1 +1,1 @@
-{"name": "Chiese_neogotiche", "id": 7844929, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}, {"name": "Movimenti_artistici", "id": 73947}], "successors": [{"name": "Chiese_neogotiche_della_Francia", "id": 8874024}, {"name": "Chiese_neogotiche_della_Lombardia", "id": 8902654}]}
+{"name": "Chiese_neogotiche", "id": 7844929, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Movimenti_artistici", "id": 73947}], "successors": [{"name": "Chiese_neogotiche_della_Francia", "id": 8874024}, {"name": "Chiese_neogotiche_della_Lombardia", "id": 8902654}]}

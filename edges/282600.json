@@ -1,1 +1,1 @@
-{"name": "Elenchi_di_autostrade", "id": 282600, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}], "successors": []}
+{"name": "Elenchi_di_autostrade", "id": 282600, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Categorie", "id": 41474}], "successors": []}

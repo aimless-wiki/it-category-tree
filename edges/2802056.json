@@ -1,1 +1,1 @@
-{"name": "Chiese_dedicate_alla_Trinità", "id": 2802056, "predecessors": [{"name": "Trinità", "id": 422473}, {"name": "Tipi_di_architetture", "id": 3111902}], "successors": [{"name": "Cattedrali_dedicate_alla_Trinità", "id": 4787304}]}
+{"name": "Chiese_dedicate_alla_Trinità", "id": 2802056, "predecessors": [{"name": "Trinità", "id": 422473}, {"name": "Architettura", "id": 27322}], "successors": [{"name": "Cattedrali_dedicate_alla_Trinità", "id": 4787304}]}

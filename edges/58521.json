@@ -1,1 +1,1 @@
-{"name": "Analisi_funzionale", "id": 58521, "predecessors": [{"name": "Ominidi", "id": 1409322}], "successors": [{"name": "Analisi_di_Fourier", "id": 80116}, {"name": "Calcolo_integrale", "id": 638012}, {"name": "Operatori_lineari", "id": 5120657}]}
+{"name": "Analisi_funzionale", "id": 58521, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Analisi_di_Fourier", "id": 80116}, {"name": "Calcolo_integrale", "id": 638012}, {"name": "Operatori_lineari", "id": 5120657}]}

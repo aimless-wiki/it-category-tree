@@ -1,1 +1,1 @@
-{"name": "Città_murate_del_Lazio", "id": 4161742, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Roma", "id": 37830}]}
+{"name": "Città_murate_del_Lazio", "id": 4161742, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Roma", "id": 37830}]}

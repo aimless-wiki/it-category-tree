@@ -1,1 +1,1 @@
-{"name": "Trasporto_di_merci_su_strada", "id": 1616345, "predecessors": [{"name": "Trasporto_di_merci", "id": 92664}, {"name": "Tipi_di_architetture", "id": 3111902}], "successors": []}
+{"name": "Trasporto_di_merci_su_strada", "id": 1616345, "predecessors": [{"name": "Trasporto_di_merci", "id": 92664}, {"name": "Categorie", "id": 41474}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cultura_ebraica", "id": 5875598, "predecessors": [{"name": "Ebraismo", "id": 39921}, {"name": "Sociologia_economica", "id": 491942}], "successors": [{"name": "Lingua_ebraica", "id": 862865}, {"name": "Cucina_ebraica", "id": 4424763}, {"name": "Ebraisti_italiani", "id": 2740784}]}
+{"name": "Cultura_ebraica", "id": 5875598, "predecessors": [{"name": "Ebraismo", "id": 39921}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Lingua_ebraica", "id": 862865}, {"name": "Cucina_ebraica", "id": 4424763}, {"name": "Ebraisti_italiani", "id": 2740784}]}

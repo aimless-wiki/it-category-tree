@@ -1,1 +1,1 @@
-{"name": "Parco_di_Monza", "id": 7734090, "predecessors": [{"name": "Tipi_di_architetture", "id": 3111902}, {"name": "Parchi_cittadini_d'Italia", "id": 7734145}], "successors": []}
+{"name": "Parco_di_Monza", "id": 7734090, "predecessors": [{"name": "Architettura", "id": 27322}, {"name": "Parchi_cittadini_d'Italia", "id": 7734145}], "successors": []}
