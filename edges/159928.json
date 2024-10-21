@@ -1,1 +1,1 @@
-{"name": "Malattie_genetiche", "id": 159928, "predecessors": [{"name": "Genetica", "id": 34130}, {"name": "Malattie", "id": 40946}], "successors": [{"name": "Sindromi_genetiche", "id": 8769212}]}
+{"name": "Malattie_genetiche", "id": 159928, "predecessors": [{"name": "Malattie", "id": 40946}, {"name": "Genetica", "id": 34130}], "successors": [{"name": "Sindromi_genetiche", "id": 8769212}]}

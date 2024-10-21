@@ -1,1 +1,1 @@
-{"name": "Malattie_metaboliche", "id": 685438, "predecessors": [{"name": "Metabolismo", "id": 265330}, {"name": "Medicina", "id": 27684}, {"name": "Anatomia_umana", "id": 2973854}], "successors": []}
+{"name": "Malattie_metaboliche", "id": 685438, "predecessors": [{"name": "Metabolismo", "id": 265330}, {"name": "Endocrinologia", "id": 212348}, {"name": "Anatomia_umana", "id": 2973854}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Trasporto_di_merci_su_strada", "id": 1616345, "predecessors": [{"name": "Trasporto_di_merci", "id": 92664}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Trasporto_di_merci_su_strada", "id": 1616345, "predecessors": [{"name": "Trasporto_di_merci", "id": 92664}, {"name": "Pubblica_amministrazione", "id": 279772}], "successors": []}

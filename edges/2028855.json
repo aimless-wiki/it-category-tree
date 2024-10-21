@@ -1,1 +1,1 @@
-{"name": "Composti_eterociclici_a_un_anello", "id": 2028855, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Piperidine", "id": 4333453}, {"name": "Pirrolidine", "id": 5093033}]}
+{"name": "Composti_eterociclici_a_un_anello", "id": 2028855, "predecessors": [{"name": "Composti_organici", "id": 444820}], "successors": [{"name": "Piperidine", "id": 4333453}, {"name": "Pirrolidine", "id": 5093033}]}

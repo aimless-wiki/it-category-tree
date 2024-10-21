@@ -1,1 +1,1 @@
-{"name": "Programmi_televisivi_di_cucina", "id": 6413265, "predecessors": [{"name": "Generi_televisivi", "id": 1214676}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Programmi_televisivi_di_cucina", "id": 6413265, "predecessors": [{"name": "Programmi_televisivi_enogastronomici", "id": 1621111}, {"name": "Categorie", "id": 41474}], "successors": []}

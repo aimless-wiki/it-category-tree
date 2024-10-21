@@ -1,1 +1,1 @@
-{"name": "Costruzione_e_sicurezza_delle_strade", "id": 1603014, "predecessors": [{"name": "Ingegneria_civile", "id": 395389}, {"name": "Categorie", "id": 41474}, {"name": "Sicurezza", "id": 493345}], "successors": [{"name": "Sicurezza_stradale", "id": 5040337}]}
+{"name": "Costruzione_e_sicurezza_delle_strade", "id": 1603014, "predecessors": [{"name": "Ingegneria_civile", "id": 395389}, {"name": "Pubblica_amministrazione", "id": 279772}, {"name": "Sicurezza", "id": 493345}], "successors": [{"name": "Sicurezza_stradale", "id": 5040337}]}
