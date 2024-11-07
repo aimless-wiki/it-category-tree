@@ -1,1 +1,1 @@
-{"name": "Film_biografici_sui_politici", "id": 4352631, "predecessors": [{"name": "Film_biografici", "id": 52826}, {"name": "Politica", "id": 27882}], "successors": [{"name": "Film_su_Adolf_Hitler", "id": 7642913}]}
+{"name": "Film_biografici_sui_politici", "id": 4352631, "predecessors": [{"name": "Film_biografici", "id": 52826}, {"name": "Film_politici", "id": 465988}, {"name": "Politica", "id": 27882}], "successors": [{"name": "Film_su_Adolf_Hitler", "id": 7642913}]}

@@ -1,1 +1,1 @@
-{"name": "Condimenti", "id": 603639, "predecessors": [{"name": "Ingredienti_di_cucina", "id": 603187}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Oli_alimentari", "id": 2739436}, {"name": "Dolci_a_base_di_burro", "id": 7934999}]}
+{"name": "Condimenti", "id": 603639, "predecessors": [{"name": "Ingredienti_di_cucina", "id": 603187}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Oli_alimentari", "id": 2739436}, {"name": "Condimenti_della_pasta", "id": 9271175}, {"name": "Dolci_a_base_di_burro", "id": 7934999}]}

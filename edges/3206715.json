@@ -1,1 +1,1 @@
-{"name": "Fotosintesi", "id": 3206715, "predecessors": [{"name": "Biochimica", "id": 43154}, {"name": "Fisiologia_vegetale", "id": 725934}, {"name": "Fotochimica", "id": 2536359}, {"name": "Metabolismo", "id": 265330}], "successors": []}
+{"name": "Fotosintesi", "id": 3206715, "predecessors": [{"name": "Biochimica", "id": 43154}, {"name": "Fisiologia_vegetale", "id": 725934}, {"name": "Fotochimica", "id": 2536359}, {"name": "Metabolismo", "id": 265330}, {"name": "Processi_fisiologici_delle_piante", "id": 5301919}], "successors": []}

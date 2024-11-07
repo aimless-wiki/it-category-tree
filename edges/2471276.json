@@ -1,1 +1,1 @@
-{"name": "Film_commedia_all'italiana", "id": 2471276, "predecessors": [{"name": "Film_commedia", "id": 52827}, {"name": "Cinema_italiano", "id": 430878}], "successors": [{"name": "Film_commedia_sexy_all'italiana", "id": 1971546}]}
+{"name": "Film_commedia_all'italiana", "id": 2471276, "predecessors": [{"name": "Film_commedia_italiani", "id": 10243586}, {"name": "Cinema_italiano", "id": 430878}], "successors": [{"name": "Film_commedia_sexy_all'italiana", "id": 1971546}]}
