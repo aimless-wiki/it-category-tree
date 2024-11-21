@@ -1,1 +1,1 @@
-{"name": "Consorzi", "id": 1152306, "predecessors": [{"name": "Economia", "id": 27583}], "successors": []}
+{"name": "Consorzi", "id": 1152306, "predecessors": [{"name": "Economia", "id": 27583}], "successors": [{"name": "Consorzi_di_bonifica", "id": 1568459}]}

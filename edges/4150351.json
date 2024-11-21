@@ -1,1 +1,1 @@
-{"name": "Specie_mineralogiche_non_riconosciute_dall'IMA", "id": 4150351, "predecessors": [{"name": "Chimica_inorganica", "id": 1096006}], "successors": [{"name": "Minerali_ipotetici", "id": 4045294}]}
+{"name": "Specie_mineralogiche_non_riconosciute_dall'IMA", "id": 4150351, "predecessors": [{"name": "Minerali", "id": 24554}], "successors": [{"name": "Minerali_ipotetici", "id": 4045294}]}

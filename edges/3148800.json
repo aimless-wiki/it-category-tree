@@ -1,1 +1,1 @@
-{"name": "Solfati,_cromati,_molibdati_e_tungstati_(minerali)", "id": 3148800, "predecessors": [{"name": "Chimica_inorganica", "id": 1096006}, {"name": "Elementi_chimici", "id": 24565}], "successors": []}
+{"name": "Solfati,_cromati,_molibdati_e_tungstati_(minerali)", "id": 3148800, "predecessors": [{"name": "Minerali", "id": 24554}, {"name": "Elementi_chimici", "id": 24565}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Necropoli_etrusche", "id": 1624948, "predecessors": [{"name": "Siti_archeologici_etruschi", "id": 1881690}, {"name": "Tombe_e_necropoli", "id": 3308643}, {"name": "Architettura", "id": 27322}], "successors": []}
+{"name": "Necropoli_etrusche", "id": 1624948, "predecessors": [{"name": "Necropoli", "id": 10299066}, {"name": "Siti_archeologici_etruschi", "id": 1881690}, {"name": "Architettura", "id": 27322}], "successors": []}
