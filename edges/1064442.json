@@ -1,1 +1,1 @@
-{"name": "Protocolli_livello_fisico", "id": 1064442, "predecessors": [{"name": "Standard_ISO", "id": 48189}], "successors": [{"name": "Wi-Fi", "id": 768301}]}
+{"name": "Protocolli_livello_fisico", "id": 1064442, "predecessors": [{"name": "Standard_ISO", "id": 48189}], "successors": [{"name": "Wi-Fi", "id": 768301}, {"name": "Ethernet", "id": 9594959}]}

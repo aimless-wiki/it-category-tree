@@ -1,1 +1,1 @@
-{"name": "Album_emo", "id": 1190478, "predecessors": [{"name": "Album_punk_rock", "id": 581818}, {"name": "Movimenti_giovanili", "id": 86639}], "successors": [{"name": "Album_screamo", "id": 1636205}, {"name": "Album_emo-pop", "id": 2631427}, {"name": "Album_emo_rap", "id": 7839338}]}
+{"name": "Album_emo", "id": 1190478, "predecessors": [{"name": "Album_punk_rock", "id": 581818}, {"name": "Moda_e_subculture", "id": 1309961}], "successors": [{"name": "Album_screamo", "id": 1636205}, {"name": "Album_emo-pop", "id": 2631427}, {"name": "Album_emo_rap", "id": 7839338}]}
