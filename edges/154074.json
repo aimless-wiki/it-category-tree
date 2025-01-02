@@ -1,1 +1,1 @@
-{"name": "Automobili_Cadillac", "id": 154074, "predecessors": [{"name": "Automobili", "id": 76002}], "successors": []}
+{"name": "Automobili_Cadillac", "id": 154074, "predecessors": [{"name": "Automobili", "id": 76002}, {"name": "Categorie", "id": 41474}], "successors": []}
