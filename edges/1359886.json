@@ -1,1 +1,1 @@
-{"name": "Disturbi_della_sfera_sessuale", "id": 1359886, "predecessors": [{"name": "Disturbi_psichici", "id": 315358}, {"name": "Sessualità", "id": 68640}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Parafilie", "id": 828791}]}
+{"name": "Disturbi_della_sfera_sessuale", "id": 1359886, "predecessors": [{"name": "Disturbi_psichici", "id": 315358}, {"name": "Sessualità", "id": 68640}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Parafilie", "id": 828791}]}

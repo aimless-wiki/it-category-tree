@@ -1,1 +1,1 @@
-{"name": "Rene", "id": 2350202, "predecessors": [{"name": "Apparato_urinario", "id": 1177646}, {"name": "Medicina", "id": 27684}], "successors": []}
+{"name": "Rene", "id": 2350202, "predecessors": [{"name": "Apparato_urinario", "id": 1177646}, {"name": "Salute", "id": 128360}], "successors": []}

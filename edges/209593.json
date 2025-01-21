@@ -1,1 +1,1 @@
-{"name": "Dermatologia", "id": 209593, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Malattie_dell'apparato_tegumentario", "id": 209592}]}
+{"name": "Dermatologia", "id": 209593, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Malattie_dell'apparato_tegumentario", "id": 209592}]}

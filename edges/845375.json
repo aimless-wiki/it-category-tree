@@ -1,1 +1,1 @@
-{"name": "Cucina_cinese", "id": 845375, "predecessors": [{"name": "Cultura_della_Cina", "id": 1826266}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Cucina_cinese", "id": 845375, "predecessors": [{"name": "Cultura_della_Cina", "id": 1826266}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Dolci_cinesi", "id": 3273684}, {"name": "Cucina_cantonese", "id": 7524771}]}

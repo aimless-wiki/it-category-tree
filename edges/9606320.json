@@ -1,1 +1,1 @@
-{"name": "Dipinti_sul_lavoro", "id": 9606320, "predecessors": [{"name": "Lavoro", "id": 135958}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Dipinti_sui_mesi_e_le_stagioni", "id": 3976480}, {"name": "Dipinti_su_contadini", "id": 4374453}]}
+{"name": "Dipinti_sul_lavoro", "id": 9606320, "predecessors": [{"name": "Dipinti_a_soggetto_quotidiano", "id": 80016}, {"name": "Lavoro", "id": 135958}], "successors": [{"name": "Dipinti_sui_mesi_e_le_stagioni", "id": 3976480}, {"name": "Dipinti_su_contadini", "id": 4374453}]}

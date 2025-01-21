@@ -1,1 +1,1 @@
-{"name": "Oppioidi", "id": 220137, "predecessors": [{"name": "Droghe", "id": 74244}, {"name": "Farmaci", "id": 86611}, {"name": "Medicina", "id": 27684}], "successors": []}
+{"name": "Oppioidi", "id": 220137, "predecessors": [{"name": "Droghe", "id": 74244}, {"name": "Farmaci", "id": 86611}, {"name": "Salute", "id": 128360}], "successors": []}

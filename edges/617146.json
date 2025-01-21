@@ -1,1 +1,1 @@
-{"name": "Analgesici", "id": 617146, "predecessors": [{"name": "Farmaci", "id": 86611}, {"name": "Medicina", "id": 27684}, {"name": "Dolore", "id": 799251}], "successors": []}
+{"name": "Analgesici", "id": 617146, "predecessors": [{"name": "Farmaci", "id": 86611}, {"name": "Salute", "id": 128360}, {"name": "Dolore", "id": 799251}], "successors": []}

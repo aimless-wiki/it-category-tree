@@ -1,1 +1,1 @@
-{"name": "Antimicotici", "id": 1947805, "predecessors": [{"name": "Codici_ATC", "id": 5274640}, {"name": "Micologia", "id": 67281}, {"name": "Farmaci", "id": 86611}], "successors": []}
+{"name": "Antimicotici", "id": 1947805, "predecessors": [{"name": "Codici_ATC", "id": 5274640}, {"name": "Micologia", "id": 67281}, {"name": "Igiene_e_medicina_preventiva", "id": 2136806}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Infermieristica", "id": 217662, "predecessors": [{"name": "Salute", "id": 128360}], "successors": []}
+{"name": "Infermieristica", "id": 217662, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Infermieri_statunitensi", "id": 1932665}]}

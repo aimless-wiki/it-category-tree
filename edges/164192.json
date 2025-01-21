@@ -1,1 +1,1 @@
-{"name": "Ortopedia", "id": 164192, "predecessors": [{"name": "Chirurgia", "id": 63151}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Fisioterapia", "id": 1073752}, {"name": "Malattie_del_sistema_scheletrico", "id": 1966123}]}
+{"name": "Ortopedia", "id": 164192, "predecessors": [{"name": "Chirurgia", "id": 63151}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Fisioterapia", "id": 1073752}, {"name": "Malattie_del_sistema_scheletrico", "id": 1966123}]}

@@ -1,1 +1,1 @@
-{"name": "Ricerca_clinica", "id": 1491111, "predecessors": [{"name": "Farmacologia", "id": 864509}, {"name": "Medicina", "id": 27684}, {"name": "Ricerca_scientifica", "id": 443259}], "successors": []}
+{"name": "Ricerca_clinica", "id": 1491111, "predecessors": [{"name": "Farmacologia", "id": 864509}, {"name": "Ricerca_scientifica", "id": 443259}, {"name": "Salute", "id": 128360}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Procedure_di_primo_soccorso", "id": 2096881, "predecessors": [{"name": "Medicina", "id": 27684}, {"name": "Soccorso_pubblico_e_difesa_civile", "id": 1438239}], "successors": []}
+{"name": "Procedure_di_primo_soccorso", "id": 2096881, "predecessors": [{"name": "Salute", "id": 128360}, {"name": "Soccorso_pubblico_e_difesa_civile", "id": 1438239}], "successors": []}

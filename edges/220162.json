@@ -1,1 +1,1 @@
-{"name": "Oftalmologia", "id": 220162, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Malattie_oftalmologiche", "id": 162076}, {"name": "Oculisti_italiani", "id": 888448}, {"name": "Oculisti_tedeschi", "id": 3075332}]}
+{"name": "Oftalmologia", "id": 220162, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Malattie_oftalmologiche", "id": 162076}, {"name": "Oculisti_italiani", "id": 888448}, {"name": "Oculisti_tedeschi", "id": 3075332}]}

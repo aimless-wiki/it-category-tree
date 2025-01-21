@@ -1,1 +1,1 @@
-{"name": "Pneumologia", "id": 220183, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Apparato_respiratorio", "id": 1172902}]}
+{"name": "Pneumologia", "id": 220183, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Apparato_respiratorio", "id": 1172902}]}

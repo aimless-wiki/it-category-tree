@@ -1,1 +1,1 @@
-{"name": "Imposte_abrogate", "id": 1976294, "predecessors": [{"name": "Imposte", "id": 161796}, {"name": "Categorie", "id": 41474}], "successors": []}
+{"name": "Imposte_abrogate", "id": 1976294, "predecessors": [{"name": "Imposte", "id": 161796}, {"name": "Categorie", "id": 41474}, {"name": "Diritto_tributario", "id": 207199}], "successors": []}

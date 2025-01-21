@@ -1,1 +1,1 @@
-{"name": "Dipinti_su_musicisti", "id": 3976509, "predecessors": [{"name": "Categorie", "id": 41474}], "successors": [{"name": "Dipinti_su_angeli_musicanti", "id": 3981469}]}
+{"name": "Dipinti_su_musicisti", "id": 3976509, "predecessors": [{"name": "Dipinti_a_soggetto_quotidiano", "id": 80016}, {"name": "Categorie", "id": 41474}], "successors": [{"name": "Dipinti_su_angeli_musicanti", "id": 3981469}]}

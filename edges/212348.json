@@ -1,1 +1,1 @@
-{"name": "Endocrinologia", "id": 212348, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Ormoni", "id": 217454}, {"name": "Malattie_del_sistema_endocrino", "id": 1341729}, {"name": "Malattie_metaboliche", "id": 685438}]}
+{"name": "Endocrinologia", "id": 212348, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Ormoni", "id": 217454}, {"name": "Malattie_del_sistema_endocrino", "id": 1341729}, {"name": "Malattie_metaboliche", "id": 685438}]}

@@ -1,1 +1,1 @@
-{"name": "Oncologia", "id": 70156, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Marker_tumorali", "id": 2587450}, {"name": "Film_sul_cancro", "id": 4886652}]}
+{"name": "Oncologia", "id": 70156, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Marker_tumorali", "id": 2587450}, {"name": "Film_sul_cancro", "id": 4886652}]}

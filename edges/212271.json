@@ -1,1 +1,1 @@
-{"name": "Ematologia", "id": 212271, "predecessors": [{"name": "Medicina", "id": 27684}, {"name": "Fisiologia_umana", "id": 1953351}], "successors": [{"name": "Malattie_dell'apparato_ematopoietico_e_del_sangue", "id": 212477}]}
+{"name": "Ematologia", "id": 212271, "predecessors": [{"name": "Salute", "id": 128360}, {"name": "Fisiologia_umana", "id": 1953351}], "successors": [{"name": "Malattie_dell'apparato_ematopoietico_e_del_sangue", "id": 212477}]}

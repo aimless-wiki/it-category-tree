@@ -1,1 +1,1 @@
-{"name": "Gastroenterologia", "id": 212363, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Epatologia", "id": 1369132}, {"name": "Sistema_digerente", "id": 3530156}, {"name": "Malattie_del_sistema_digerente", "id": 3530163}]}
+{"name": "Gastroenterologia", "id": 212363, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Epatologia", "id": 1369132}, {"name": "Sistema_digerente", "id": 3530156}, {"name": "Malattie_del_sistema_digerente", "id": 3530163}]}

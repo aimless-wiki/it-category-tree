@@ -1,1 +1,1 @@
-{"name": "Procedure_diagnostiche", "id": 2097005, "predecessors": [{"name": "Diagnostica_medica", "id": 67226}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Endoscopia", "id": 2056874}]}
+{"name": "Procedure_diagnostiche", "id": 2097005, "predecessors": [{"name": "Diagnostica_medica", "id": 67226}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Endoscopia", "id": 2056874}]}

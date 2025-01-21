@@ -1,1 +1,1 @@
-{"name": "Malattie_dell'apparato_genitale_maschile", "id": 2582977, "predecessors": [{"name": "Urologia", "id": 86693}, {"name": "Medicina", "id": 27684}, {"name": "Anatomia_umana", "id": 2973854}], "successors": []}
+{"name": "Malattie_dell'apparato_genitale_maschile", "id": 2582977, "predecessors": [{"name": "Urologia", "id": 86693}, {"name": "Salute", "id": 128360}, {"name": "Anatomia_umana", "id": 2973854}], "successors": []}

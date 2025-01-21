@@ -1,1 +1,1 @@
-{"name": "Medicina_nucleare", "id": 241037, "predecessors": [{"name": "Medicina", "id": 27684}, {"name": "Fisica_nucleare", "id": 105357}], "successors": []}
+{"name": "Medicina_nucleare", "id": 241037, "predecessors": [{"name": "Salute", "id": 128360}, {"name": "Fisica_nucleare", "id": 105357}], "successors": []}

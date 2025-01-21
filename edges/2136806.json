@@ -1,1 +1,1 @@
-{"name": "Igiene_e_medicina_preventiva", "id": 2136806, "predecessors": [{"name": "Igiene", "id": 540748}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Vaccini", "id": 241202}]}
+{"name": "Igiene_e_medicina_preventiva", "id": 2136806, "predecessors": [{"name": "Igiene", "id": 540748}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Vaccini", "id": 241202}, {"name": "Antibiotici", "id": 108639}, {"name": "Antisettici", "id": 297518}, {"name": "Antimicotici", "id": 1947805}, {"name": "Antivirali", "id": 1947833}]}

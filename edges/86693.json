@@ -1,1 +1,1 @@
-{"name": "Urologia", "id": 86693, "predecessors": [{"name": "Medicina", "id": 27684}], "successors": [{"name": "Apparato_urinario", "id": 1177646}, {"name": "Malattie_dell'apparato_urinario", "id": 2582653}, {"name": "Malattie_dell'apparato_genitale_maschile", "id": 2582977}]}
+{"name": "Urologia", "id": 86693, "predecessors": [{"name": "Salute", "id": 128360}], "successors": [{"name": "Apparato_urinario", "id": 1177646}, {"name": "Malattie_dell'apparato_urinario", "id": 2582653}, {"name": "Malattie_dell'apparato_genitale_maschile", "id": 2582977}]}

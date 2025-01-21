@@ -1,1 +1,1 @@
-{"name": "Pediatria", "id": 121438, "predecessors": [{"name": "Infanzia", "id": 473744}, {"name": "Medicina", "id": 27684}], "successors": [{"name": "Neonatologia", "id": 122891}, {"name": "Autismo", "id": 480102}, {"name": "Pediatri_italiani", "id": 2627079}]}
+{"name": "Pediatria", "id": 121438, "predecessors": [{"name": "Infanzia", "id": 473744}, {"name": "Salute", "id": 128360}], "successors": [{"name": "Neonatologia", "id": 122891}, {"name": "Autismo", "id": 480102}, {"name": "Pediatri_italiani", "id": 2627079}]}

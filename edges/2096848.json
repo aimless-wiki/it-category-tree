@@ -1,1 +1,1 @@
-{"name": "Procedure_chirurgiche", "id": 2096848, "predecessors": [{"name": "Chirurgia", "id": 63151}, {"name": "Medicina", "id": 27684}], "successors": []}
+{"name": "Procedure_chirurgiche", "id": 2096848, "predecessors": [{"name": "Chirurgia", "id": 63151}, {"name": "Salute", "id": 128360}], "successors": []}
